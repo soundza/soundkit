@@ -1,0 +1,24 @@
+{
+  "name": "soundza-remotion-example",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A short Remotion promo with sound design from Soundza, placed by the soundza-remotion skill.",
+  "type": "module",
+  "scripts": {
+    "dev": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render Promo out/promo.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "@remotion/transitions": "4.0.534",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
