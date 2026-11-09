@@ -1,1 +1,82 @@
-{}
+{
+  "whoosh": {
+    "id": "n58u3r7hc54c9jvs5qm1su6s",
+    "title": "Fast Swish Whoosh 4",
+    "file": "whoosh.wav",
+    "duration": 1.5,
+    "sync_ms": 146,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/fast-swish-whoosh-4",
+    "attribution": "\"Fast Swish Whoosh 4\" on Soundza (https://soundza.com/sound/fast-swish-whoosh-4)"
+  },
+  "title-hit": {
+    "id": "cmw123js1008908jkq0xn75ix",
+    "title": "Cinematic Title Hit Deep Low",
+    "file": "title-hit.wav",
+    "duration": 3.3,
+    "sync_ms": 36,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/cinematic-title-hit-deep-low",
+    "attribution": "\"Cinematic Title Hit Deep Low\" on Soundza (https://soundza.com/sound/cinematic-title-hit-deep-low)"
+  },
+  "pop": {
+    "id": "cmvcmbf6rxr815bt4tf7g6xlm",
+    "title": "Bubble Pop UI Tap",
+    "file": "pop.wav",
+    "duration": 0.31,
+    "sync_ms": 54,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/bubble-pop-ui-tap",
+    "attribution": "\"Bubble Pop UI Tap\" on Soundza (https://soundza.com/sound/bubble-pop-ui-tap)"
+  },
+  "tick": {
+    "id": "cmv5n0d7m013q06l4kqtau4a0",
+    "title": "Tick 4",
+    "file": "tick.ogg",
+    "duration": 0.05,
+    "sync_ms": 49,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/tick-4",
+    "attribution": "\"Tick 4\" on Soundza (https://soundza.com/sound/tick-4)"
+  },
+  "ding": {
+    "id": "cmv8zj76hjqbl2cjiwm7sg5xn",
+    "title": "Correct Answer Ding",
+    "file": "ding.wav",
+    "duration": 0.87,
+    "sync_ms": 214,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/correct-answer-ding",
+    "attribution": "\"Correct Answer Ding\" on Soundza (https://soundza.com/sound/correct-answer-ding)"
+  },
+  "riser": {
+    "id": "kmciwz5t8ri4nx22o04eu4vd",
+    "title": "Bright Tension Riser in C",
+    "file": "riser.wav",
+    "duration": 3.17,
+    "sync_ms": 2617,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/bright-tension-riser-in-c",
+    "attribution": "\"Bright Tension Riser in C\" on Soundza (https://soundza.com/sound/bright-tension-riser-in-c)"
+  },
+  "logo-hit": {
+    "id": "cmvjom2usa7g6b386nqdy9pt0",
+    "title": "Crystalline Shimmer Sting",
+    "file": "logo-hit.wav",
+    "duration": 2.17,
+    "sync_ms": 89,
+    "loop_seamless": null,
+    "url": "https://soundza.com/sound/crystalline-shimmer-sting",
+    "attribution": "\"Crystalline Shimmer Sting\" on Soundza (https://soundza.com/sound/crystalline-shimmer-sting)"
+  },
+  "music": {
+    "id": "hf82izfzwmca76u4vjaa1eag",
+    "title": "Upbeat Tech Startup Background 1",
+    "file": "music.wav",
+    "duration": 117.13,
+    "sync_ms": null,
+    "loop_seamless": true,
+    "url": "https://soundza.com/sound/upbeat-tech-startup-background-1",
+    "attribution": "\"Upbeat Tech Startup Background 1\" on Soundza (https://soundza.com/sound/upbeat-tech-startup-background-1)"
+  }
+}

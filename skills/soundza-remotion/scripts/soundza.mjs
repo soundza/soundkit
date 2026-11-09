@@ -25,7 +25,7 @@ const CREDITS = "CREDITS.md";
 const [command, ...rest] = process.argv.slice(2);
 const { positional, flags } = parseArgs(rest);
 
-const commands = { signin, search, add, list, removals, help };
+const commands = { signin, search, generate, add, list, removals, help };
 await (commands[command] ?? help)();
 
 // ---------------------------------------------------------------- commands
@@ -37,6 +37,8 @@ async function help() {
       --type sound_effect|music|ambience  --good-for transition,reveal,...  --category SWOOSHES
       --min-duration N  --max-duration N  --fit N (seconds to fill)  --mood warm,cinematic
       --vocals none  --parts full_mix  --form loop  --per-page 10
+  node soundza.mjs generate "<prompt>" [--duration 2] [--takes 2]
+                                               Nothing fits? Make it with AI (free, ~10 s); add a take by its id
   node soundza.mjs add <id> --name <slot>      Download once into public/sounds/<slot>.<ext>, record it
   node soundza.mjs list                        Sounds this project uses
   node soundza.mjs removals                    Check whether any of them were removed from Soundza`);
@@ -127,6 +129,51 @@ async function search() {
     if (s.description) console.log(`   ${truncate(s.description, 160)}`);
     console.log(`   listen: ${s.preview_files?.[0]?.link ?? s.url}`);
   }
+  if (page.audition_url) console.log(`\naudition (hear them all on one page, tick the ones you like): ${page.audition_url}`);
+}
+
+async function generate() {
+  const key = requireKey();
+  const prompt = positional[0];
+  if (!prompt) fail('Usage: node soundza.mjs generate "<what makes the sound, the material, the action>" [--duration 2] [--takes 2]');
+  const body = { prompt };
+  if (flags.duration) body.duration_seconds = Number(flags.duration);
+  if (flags.takes) body.takes = Number(flags.takes);
+  if (flags.seed) body.seed = Number(flags.seed);
+  const res = await fetch(`${API}/generations`, {
+    method: "POST",
+    headers: { "content-type": "application/json", Authorization: `Bearer ${key}` },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok && res.status !== 202) await apiFail(res, "/generations");
+  let job = await res.json();
+  while (job.status === "queued" || job.status === "running") {
+    await sleep((job.poll_after_seconds ?? 3) * 1000);
+    job = await get(job.poll_url.slice(job.poll_url.indexOf("/generations")), key);
+  }
+  if (job.status !== "succeeded") fail(`Generation failed: ${job.error?.message ?? job.status}. Try other words.`);
+
+  const cache = readJson(CACHE, {});
+  console.log(`AI-generated takes for "${prompt}" (tell the person these are AI-generated):\n`);
+  for (const take of job.takes) {
+    cache[take.id] = {
+      id: take.id,
+      title: `${prompt} (take ${take.rank})`,
+      file_extension: "wav",
+      download_url: take.url,
+      duration: take.duration_seconds ?? null,
+      sync_ms: null,
+      loop_seamless: null,
+      url: take.url,
+      attribution: `"${prompt}", AI-generated on Soundza (https://soundza.com)`,
+    };
+    console.log(`${take.id}  take ${take.rank} · ${fmtDuration(take.duration_seconds)}`);
+    console.log(`   listen: ${take.preview_url}`);
+  }
+  await mkdir(path.dirname(CACHE), { recursive: true });
+  await writeFile(CACHE, JSON.stringify(cache));
+  await ignore(".soundza/");
+  console.log(`\nKeep one with: node soundza.mjs add <id> --name <slot>   (links work for a limited time; add the keeper now)`);
 }
 
 async function add() {

@@ -8,7 +8,7 @@ Ask your agent for it in plain words:
 
 > put a whoosh on every transition and a calm music bed under it
 
-The agent reads your compositions, lists every moment that should make a sound, searches thousands of sounds by description, lets you pick by ear from free previews, downloads only the ones you use, and places each one so its hit lands on the exact frame.
+The agent reads your compositions, lists every moment that should make a sound, searches thousands of sounds by description, lets you pick by ear on one audition page, makes a sound with AI when nothing fits, downloads only the ones you use, and places each one so its hit lands on the exact frame.
 
 ## Install
 
@@ -47,9 +47,12 @@ Renders never need the key: the files are in your project.
 ```bash
 cd example
 npm install
+./get-sounds.sh   # one-click sign-in, then downloads the 8 sounds it uses
 npm run dev       # Remotion Studio
 npm run render    # out/promo.mp4
 ```
+
+Measured on a render: each hit lands within one frame (33 ms at 30 fps) of the frame it was placed on.
 
 ## Without an agent
 
@@ -59,6 +62,7 @@ The helper the skill uses works on its own (Node 18+, no dependencies). Run it f
 node skills/soundza-remotion/scripts/soundza.mjs signin
 node skills/soundza-remotion/scripts/soundza.mjs search "fast airy whoosh" --type sound_effect --good-for transition --max-duration 2
 node skills/soundza-remotion/scripts/soundza.mjs add <id> --name whoosh
+node skills/soundza-remotion/scripts/soundza.mjs generate "glass marble dropping on wood" --duration 2
 ```
 
 Then copy [`templates/soundza.tsx`](skills/soundza-remotion/templates/soundza.tsx) into `src/`.
