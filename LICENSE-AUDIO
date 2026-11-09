@@ -1,5 +1,7 @@
-The audio in registry/soundza/sounds/ (SoundKit: 225 sound effects and 25 music beds) and the WAV files
-it links to are dedicated to the public domain under CC0 1.0 Universal by Soundza.
+The audio in registry/soundza/sounds/ (SoundKit: 225 sound effects and 25 music beds)
+and the files it links to are CC0. Each sound was released under CC0 1.0 Universal
+by its creator, and Soundza dedicates its own edits (trimming, level matching) to
+the public domain under CC0 1.0 Universal as well.
 The code in this repository is under the MIT License (see LICENSE).
 
 Creative Commons Legal Code
