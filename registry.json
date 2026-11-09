@@ -547,6 +547,492 @@
       ]
     },
     {
+      "name": "reverse-whoosh",
+      "type": "registry:lib",
+      "title": "Reverse Whoosh",
+      "description": "A sweeping white noise reverse transition with bright, airy character and gradual onset—perfect for building tension or bridging sections. The sound sits in the upper-mid frequencies with crispy text…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2000,
+        "syncMs": 491,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/reverse-whoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/reverse-whoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/reverse-whoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "airy-sweep",
+      "type": "registry:lib",
+      "title": "Airy Sweep",
+      "description": "A whooshing, sweeping air sound effect with a deep, resonant character that rises through the mid-range with organic texture and movement, ideal for building tension and signaling transitions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3156,
+        "syncMs": 651,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/airy-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/airy-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/airy-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "reversing-noise-sweep",
+      "type": "registry:lib",
+      "title": "Reversing Noise Sweep",
+      "description": "A bright, textured noise reverse transition with a woosh-like character that sweeps upward through the mid-range; ideal for building tension, revealing elements, or punctuating edits in cinematic and…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2000,
+        "syncMs": 460,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/reversing-noise-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/reversing-noise-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/reversing-noise-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "breath-whoosh",
+      "type": "registry:lib",
+      "title": "Breath Whoosh",
+      "description": "A bright, airy vocal whoosh with a crisp sweep character—like a quick breath or vocal blow effect with high-frequency presence and minimal sustain, ideal for transitions and impact moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3249,
+        "syncMs": 833,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/breath-whoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/breath-whoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/breath-whoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "echoed-pitch-bend-sweep",
+      "type": "registry:lib",
+      "title": "Echoed Pitch Bend Sweep",
+      "description": "A bright, whimsical synth FX with animated pitch bends and a sweet, airy character—perfect for quirky transitions and playful cartoon moments. The sound sits in the midrange with crispy, digital spar…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1440,
+        "syncMs": 239,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/echoed-pitch-bend-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/echoed-pitch-bend-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/echoed-pitch-bend-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "mouth-swoosh-sweep",
+      "type": "registry:lib",
+      "title": "Mouth Swoosh Sweep",
+      "description": "A bright, airy vocal breath effect with a quick, whooshing character that cuts through the mix with natural noise and texture. The sound has a crispy, high-frequency presence ideal for transitions, b…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2684,
+        "syncMs": 1324,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/mouth-swoosh-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/mouth-swoosh-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/mouth-swoosh-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "ascending-space-sweep",
+      "type": "registry:lib",
+      "title": "Ascending Space Sweep",
+      "description": "A bright, ethereal cosmic sweep with a filtered, forward-moving character that rises through the midrange with subtle delay effects, perfect for sci-fi transitions and futuristic builds.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4576,
+        "syncMs": 778,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/ascending-space-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/ascending-space-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/ascending-space-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "filtered-sweep-in-c",
+      "type": "registry:lib",
+      "title": "Filtered Sweep in C",
+      "description": "A punchy, short-duration whoosh with bright, crispy character that cuts through quickly—ideal for transitions, drops, and hit accents. The sound has midrange presence around 1.4 kHz with a tight, sna…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6000,
+        "syncMs": 2040,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/filtered-sweep-in-c?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/filtered-sweep-in-c.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/filtered-sweep-in-c.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "radio-static-transition",
+      "type": "registry:lib",
+      "title": "Radio Static Transition",
+      "description": "A burst of radio static and white noise used to bridge between segments or create a quick transition effect. Commonly used in video editing to mark scene changes or momentary interruptions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4807,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/radio-static-transition?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/radio-static-transition.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/radio-static-transition.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "reverse-reverbed-breath-whoosh",
+      "type": "registry:lib",
+      "title": "Reverse Reverbed Breath Whoosh",
+      "description": "A processed vocal breath sound, heavily reverbed and reversed, creating an ethereal swooshing effect. Ideal for transitions, reverse hits, or ambient sound design elements.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2367,
+        "syncMs": 1609,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/reverse-reverbed-breath-whoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/reverse-reverbed-breath-whoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/reverse-reverbed-breath-whoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "quick-air-whoosh",
+      "type": "registry:lib",
+      "title": "Quick Air Whoosh",
+      "description": "A fast, clean air swoosh with a smooth whooshing motion, ideal for transitions between scenes or quick cutting effects. The sound moves swiftly through the frequency range with minimal tonal characte…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2064,
+        "syncMs": 235,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/quick-air-whoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/quick-air-whoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/quick-air-whoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "reversed-clap-sweep",
+      "type": "registry:lib",
+      "title": "Reversed Clap Sweep",
+      "description": "A bright, minimal tech whoosh with a sharp, sweeping character—primarily high-frequency energy that cuts through cleanly without low-end bulk, ideal for transitions and filter sweeps in electronic pr…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1967,
+        "syncMs": 703,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/reversed-clap-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/reversed-clap-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/reversed-clap-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "space-swoosh",
+      "type": "registry:lib",
+      "title": "Space Swoosh",
+      "description": "A bright, sci-fi flavored whoosh with a tonal sweep element. Ideal for UI transitions, menu swipes, or notification alerts in game and app interfaces.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1013,
+        "syncMs": 315,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/space-swoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/space-swoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/space-swoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "big-whoosh-swipe",
+      "type": "registry:lib",
+      "title": "Big Whoosh Swipe",
+      "description": "A dramatic, layered whoosh effect designed for movie titles and transitions. Created by swinging objects like pipes and processed with effects for cinematic impact.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2960,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/big-whoosh-swipe?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/big-whoosh-swipe.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/big-whoosh-swipe.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "whoosh-for-whip-zoom",
+      "type": "registry:lib",
+      "title": "Whoosh For Whip Zoom",
+      "description": "A sweeping whoosh sound designed for comedic whip crack transitions and fast movement effects. Works well for action-oriented cuts and playful swoosh moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2131,
+        "syncMs": 1789,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/whoosh-for-whip-zoom?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/whoosh-for-whip-zoom.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/whoosh-for-whip-zoom.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "white-noise-sweep",
+      "type": "registry:lib",
+      "title": "White Noise Sweep",
+      "description": "A sharp, percussive white-noise texture with a bright mid-range punch and rapid glitchy decay—sounds like a filtered noise burst or electronic percussion sweep with minimal sustain, ideal for adding …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 270,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/white-noise-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/white-noise-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/white-noise-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "funky-morph-swoosh",
+      "type": "registry:lib",
+      "title": "Funky Morph Swoosh",
+      "description": "A medium-tempo air whoosh with a funky, morphing character that supports cuts and transitions. The sound glides through mid-range frequencies with a tonal quality, ideal for movement between scenes.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2319,
+        "syncMs": 1104,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/funky-morph-swoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/funky-morph-swoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/funky-morph-swoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "record-rewind-whoosh",
+      "type": "registry:lib",
+      "title": "Record Rewind Whoosh",
+      "description": "A smooth, pitch-descending whoosh that mimics the sound of a vinyl record being rewound at speed. Clean and useful as a DJ tool or transition effect.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "whoosh",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2116,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/record-rewind-whoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/record-rewind-whoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/record-rewind-whoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "metal-hammer-hit-1",
       "type": "registry:lib",
       "title": "Metal Hammer Hit 1",
@@ -1087,6 +1573,492 @@
       ]
     },
     {
+      "name": "cinematic-tension-riser",
+      "type": "registry:lib",
+      "title": "Cinematic Tension Riser",
+      "description": "A rising, tension-building cinematic sweep with a dramatic crescendo that swells from low-mid frequencies upward, creating an intense approaching threat or climactic moment perfect for trailers and a…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3833,
+        "syncMs": 727,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-tension-riser-1?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-tension-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-tension-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "airy-shimmer-riser",
+      "type": "registry:lib",
+      "title": "Airy Shimmer Riser",
+      "description": "A sweeping air sound design effect with presence in the low-mid frequencies, featuring a whooshing character that builds and transitions smoothly. The sparse harmonic content and emphasis on spectral…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3060,
+        "syncMs": 592,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/airy-shimmer-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/airy-shimmer-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/airy-shimmer-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "noise-fade-riser",
+      "type": "registry:lib",
+      "title": "Noise Fade Riser",
+      "description": "A dramatic white noise riser with a smooth, sustained crescendo that builds intensity over 4 seconds, perfect for creating tension and forward momentum before a drop or major transition. The sound sw…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3998,
+        "syncMs": 3421,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/noise-fade-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/noise-fade-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/noise-fade-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "accelerating-cinematic-riser",
+      "type": "registry:lib",
+      "title": "Accelerating Cinematic Riser",
+      "description": "A sweeping cinematic riser with a sharp, accelerating attack that swells from low-mid frequencies with a punchy, impactful thump—ideal for building tension and drama in intros and transitions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2162,
+        "syncMs": 1057,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/accelerating-cinematic-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/accelerating-cinematic-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/accelerating-cinematic-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "filtering-build-riser",
+      "type": "registry:lib",
+      "title": "Filtering Build Riser",
+      "description": "A bright, filtered white noise sweep that builds upward with a smooth, airy character—ideal for creating tension and energy in transitions. The mid-range emphasis and gradual attack make it sit natur…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6931,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/filtering-build-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/filtering-build-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/filtering-build-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "white-noise-riser-1",
+      "type": "registry:lib",
+      "title": "White Noise Riser 1",
+      "description": "A bright, airy noise riser with a smooth upward sweep and crispy high-frequency energy, perfect for building tension and transitions. The sound evolves gradually over 6-7 seconds with minimal percuss…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6897,
+        "syncMs": 5053,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/white-noise-riser-1?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/white-noise-riser-1.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/white-noise-riser-1.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "gated-noise-riser",
+      "type": "registry:lib",
+      "title": "Gated Noise Riser",
+      "description": "A gated noise riser with a filtered sweep that builds tension through midrange emphasis and percussive intensity, perfect for EDM buildups and transitions. The sound features a bright, aggressive cha…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5799,
+        "syncMs": 3724,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/gated-noise-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/gated-noise-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/gated-noise-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "organic-noise-riser",
+      "type": "registry:lib",
+      "title": "Organic Noise Riser",
+      "description": "A bright, noise-based riser with a crispy, filtered character that builds tension over nearly 4 seconds. The mid-range dominant spectral profile and aggressive noise texture make it ideal for transit…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3750,
+        "syncMs": 3243,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/organic-noise-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/organic-noise-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/organic-noise-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cinematic-crash-riser",
+      "type": "registry:lib",
+      "title": "Cinematic Crash Riser",
+      "description": "A bright, crispy crash cymbal strike with a fast, natural attack and extended shimmer that rises and decays smoothly—ideal for punctuation, transitions, and fills across rhythmic genres.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4291,
+        "syncMs": 3959,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-crash-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-crash-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-crash-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cinematic-dramatic-film-riser",
+      "type": "registry:lib",
+      "title": "Cinematic Dramatic Film Riser",
+      "description": "A subtle, low-mid frequency riser with dramatic tension and minimal high-end presence, building tension through a slow attack over nearly a second with noisy, textural characteristics ideal for film …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3000,
+        "syncMs": 2292,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-dramatic-film-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-dramatic-film-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-dramatic-film-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "abstract-movement-riser",
+      "type": "registry:lib",
+      "title": "Abstract Movement Riser FX",
+      "description": "A bright, abstract riser sweep with mid-range presence and ethereal movement, designed to build tension and signal transitions with minimal low-end weight. The sound features a gradual attack and cri…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2000,
+        "syncMs": 1981,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/abstract-movement-riser-fx?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/abstract-movement-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/abstract-movement-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cinematic-sub-drop",
+      "type": "registry:lib",
+      "title": "Cinematic Sub Drop",
+      "description": "A punchy, boomy cinematic impact with concentrated low-mid energy that hits hard and cuts through a mix. The tight attack and fast decay make it ideal for dramatic subdrop moments and transition effe…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6000,
+        "syncMs": 772,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-sub-drop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-sub-drop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-sub-drop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "digital-textured-riser",
+      "type": "registry:lib",
+      "title": "Digital Textured Riser",
+      "description": "A bright, digitally-textured riser with shimmering mid-range frequencies and minimal low-end presence, creating an airy, ascending sweep effect ideal for tension building and transitions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5455,
+        "syncMs": 4805,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/digital-textured-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/digital-textured-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/digital-textured-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cinematic-strings-riser",
+      "type": "registry:lib",
+      "title": "Cinematic Strings Riser",
+      "description": "A dark, tremolo-laden string swell that rises with cinematic tension, building from subdued lows into a bright, piercing crescendo—ideal for horror buildups and dramatic transitions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5625,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-strings-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-strings-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-strings-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "orchestral-tension-riser",
+      "type": "registry:lib",
+      "title": "Orchestral Tension Riser",
+      "description": "A suspenseful, reversed orchestral buildup with ethereal string textures that swell dramatically toward a climactic reveal, perfect for cinematic tension and trailer moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2752,
+        "syncMs": 2474,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/orchestral-tension-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/orchestral-tension-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/orchestral-tension-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "filtered-sci-fi-riser",
+      "type": "registry:lib",
+      "title": "Filtered Sci-Fi Riser",
+      "description": "A bright, ethereal sci-fi riser with a smooth whoosh texture that sweeps upward through the midrange, perfect for building tension and signaling dramatic transitions or otherworldly moments in electr…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3333,
+        "syncMs": 1208,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/filtered-sci-fi-riser?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/filtered-sci-fi-riser.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/filtered-sci-fi-riser.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "reversed-cymbal-crash",
+      "type": "registry:lib",
+      "title": "Reversed Cymbal Crash",
+      "description": "A shimmering reversed cymbal crash with a bright, ethereal swell that gradually fades into atmospheric ambience. The sound has a dreamy, textured quality with emphasis in the mid-high frequencies, ma…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4672,
+        "syncMs": 4669,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/reversed-cymbal-crash-1?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/reversed-cymbal-crash.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/reversed-cymbal-crash.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "dubbed-sub-drop",
+      "type": "registry:lib",
+      "title": "Dubbed Sub Drop",
+      "description": "A deep, heavily sub-bass focused sound design effect with a slow attack and minimal mid/high content, sitting in the ultra-low frequencies around 63 Hz. This is a weighted, dark drop-style bass eleme…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "riser",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5421,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/dubbed-sub-drop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/dubbed-sub-drop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/dubbed-sub-drop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "melodic-shimmer-sting",
       "type": "registry:lib",
       "title": "Melodic Shimmer Sting",
@@ -1217,6 +2189,924 @@
       "files": [
         {
           "path": "registry/soundza/sounds/brass-fanfare-stinger.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "level-up-success-fanfare",
+      "type": "registry:lib",
+      "title": "Level Up Success Fanfare",
+      "description": "A bright, ascending musical fanfare with a triumphant tone, perfect for signaling victory, level progression, or quest completion in games. The sound builds quickly with a strong harmonic character a…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3431,
+        "syncMs": 801,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/level-up-success-fanfare?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/level-up-success-fanfare.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/level-up-success-fanfare.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "vibraphone-sting",
+      "type": "registry:lib",
+      "title": "Vibraphone Sting",
+      "description": "A soft, mellow melodic percussion hit with warm chord tones that descends or modulates, creating a gentle fail or reveal moment. The bright yet organic timbre sits in the mid-frequencies, ideal for t…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5721,
+        "syncMs": 174,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/vibraphone-sting?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/vibraphone-sting.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/vibraphone-sting.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "success-fanfare",
+      "type": "registry:lib",
+      "title": "Success Fanfare",
+      "description": "A triumphant brass fanfare with a bright, ascending melodic arc. Perfect for game level completion, victory moments, or notification alerts.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4467,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/success-fanfare?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/success-fanfare.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/success-fanfare.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "uplifting-success-stinger",
+      "type": "registry:lib",
+      "title": "Uplifting Success Stinger",
+      "description": "A bright, optimistic synthesized fanfare with a rising melodic phrase that lands on a triumphant chord. Perfect for game victories, level completions, or achievement notifications.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3297,
+        "syncMs": 167,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/uplifting-success-stinger?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/uplifting-success-stinger.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/uplifting-success-stinger.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "victory-fanfare-sting",
+      "type": "registry:lib",
+      "title": "Victory Fanfare Sting",
+      "description": "A bright, upbeat chiptune fanfare with synthetic square-wave melodies and a triumphant character. Perfect for game victories, level completions, or retro menu screens.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4880,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/victory-fanfare-sting?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/victory-fanfare-sting.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/victory-fanfare-sting.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "bah-dum-tss-sting",
+      "type": "registry:lib",
+      "title": "Bah Dum Tss Sting",
+      "description": "The classic comedic drum fill and cymbal crash used to punctuate a joke or punchline. A staple of slapstick humor and vaudeville-style comedy timing.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2870,
+        "syncMs": 298,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/bah-dum-tss-sting?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/bah-dum-tss-sting.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/bah-dum-tss-sting.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "money-bag-jingle",
+      "type": "registry:lib",
+      "title": "Money Bag Jingle",
+      "description": "A quick, bright metallic jingle of coins and fabric moving together, like a pouch of money being shaken or dropped. Suitable for game pickups, stream alerts, and video transitions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1719,
+        "syncMs": 511,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/money-bag-jingle?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/money-bag-jingle.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/money-bag-jingle.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "steel-drum-jingle-12",
+      "type": "registry:lib",
+      "title": "Steel Drum Jingle 12",
+      "description": "A quick, cheerful synthetic jingle with a rising melodic flourish, designed to reward player success in games. Perfect for victory or level-complete moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 825,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/steel-drum-jingle-12?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/steel-drum-jingle-12.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/steel-drum-jingle-12.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "pizzicato-jingle-6",
+      "type": "registry:lib",
+      "title": "Pizzicato Jingle 6",
+      "description": "A bright, punchy keyboard stinger celebrating a pizza-themed victory in a game. Perfect for short game events and level completions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "logo",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 536,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/pizzicato-jingle-6?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/pizzicato-jingle-6.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/pizzicato-jingle-6.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "work-beat",
+      "type": "registry:lib",
+      "title": "Melodies With A Beat: Work",
+      "description": "A full-length hip-hop beat with warm, punchy drums and a lush melodic foundation centered in the lower mids—built for vocal layering with tight grooves and spacious headroom.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 145032,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/melodies-with-a-beat-work?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/work-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/work-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "sweet-you-beat",
+      "type": "registry:lib",
+      "title": "Melodies With A Beat: Sweet You",
+      "description": "A mid-tempo instrumental beat with warm, groove-oriented character centered in the midrange; punchy yet controlled dynamics with vocal-friendly space and organic rhythmic pocket at 117 BPM in D major.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 160026,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/melodies-with-a-beat-sweet-you?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/sweet-you-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/sweet-you-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "beach-beat",
+      "type": "registry:lib",
+      "title": "Melodies With A Beat: Beach",
+      "description": "A mid-tempo instrumental beat sitting at 117 BPM in A minor with warm, groove-focused energy and balanced mid-range presence—designed as an open canvas for vocal layering. The tight, punchy rhythm wi…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 161045,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/melodies-with-a-beat-beach?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/beach-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/beach-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "industry-beat",
+      "type": "registry:lib",
+      "title": "Melodies With A Beat: Industry",
+      "description": "A mid-tempo hip-hop beat with layered drums, punchy kick and snare, and atmospheric pad textures creating space for vocal delivery. The production balances tight percussion groove with warm, lush bac…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 137038,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/melodies-with-a-beat-industry?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/industry-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/industry-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "shoepop-beat",
+      "type": "registry:lib",
+      "title": "Melodies With A Beat: Shoepop",
+      "description": "A low-end focused instrumental beat with warm, boomy character and minimal high-frequency content—designed as an open canvas for vocal placement. The groove sits in the sub and low-mid range with tig…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 164232,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/melodies-with-a-beat-shoepop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/shoepop-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/shoepop-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "love-her-beat",
+      "type": "registry:lib",
+      "title": "Melodies With A Beat: Love Her",
+      "description": "A mellow, groove-oriented instrumental beat at 117 BPM in E minor with warm low-end foundation and minimal high-frequency content—designed as an open canvas for vocal layering. The sparse, relaxed on…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 145032,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/melodies-with-a-beat-love-her?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/love-her-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/love-her-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "friend-to-friend-rnb",
+      "type": "registry:lib",
+      "title": "Instrumental R&B Beats to Sing or Rap On: Friend to friend",
+      "description": "A 129 BPM instrumental beat in G# minor with warm, mid-focused production and moderate rhythmic density ideal for vocal layering. The mix balances punchy drums with rich harmonic content, featuring a…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 163500,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-friend-to-friend?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/friend-to-friend-rnb.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/friend-to-friend-rnb.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "summer-pride-rnb",
+      "type": "registry:lib",
+      "title": "Instrumental R&B Beats to Sing or Rap On: Summer Pride",
+      "description": "A warm, groove-oriented instrumental beat at 86 BPM with prominent mid-range presence and low-end foundation, designed as an open canvas for vocal recording. The balanced spectral profile and smooth …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 173270,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-summer-pride?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/summer-pride-rnb.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/summer-pride-rnb.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "sunglasses-rnb",
+      "type": "registry:lib",
+      "title": "Instrumental R&B Beats to Sing or Rap On: Sunglasses",
+      "description": "A laid-back instrumental beat with warm, mid-focused production and moderate groove energy—designed as an open canvas for vocal layering with smooth mid-range presence and gentle dynamics.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 169639,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-sunglasses?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/sunglasses-rnb.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/sunglasses-rnb.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "walking-shoes-rnb",
+      "type": "registry:lib",
+      "title": "Instrumental R&B Beats to Sing or Rap On: Walking Shoes",
+      "description": "A laid-back, groove-oriented instrumental beat at 86 BPM with warm low-end presence and minimal high-frequency detail, designed as a full-length foundation for vocal performances. The mid-range focus…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 167184,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-walking-shoes?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/walking-shoes-rnb.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/walking-shoes-rnb.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "power-of-the-beat",
+      "type": "registry:lib",
+      "title": "The Power Of The Beat",
+      "description": "A driving house beat with punchy percussion, tight kick and snare groove, and energetic hi-hat patterns designed to lock in vocals and maintain dancefloor momentum throughout its full 161-second arra…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 161646,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/the-power-of-the-beat?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/power-of-the-beat.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/power-of-the-beat.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "techno-drive",
+      "type": "registry:lib",
+      "title": "Techno 3",
+      "description": "A driving electronic synthesizer composition with sci-fi undertones, featuring pulsing synth layers and a steady rhythm typical of techno production. Suitable for futuristic scenes, game environments…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 113074,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/techno-3?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/techno-drive.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/techno-drive.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "emotional-piano",
+      "type": "registry:lib",
+      "title": "Emotional Piano",
+      "description": "A contemplative piano theme with sustained, mournful chords that builds gradually over its length. Ideal for underscore in emotional scenes or as a reflective background for introspective moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 76800,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/emotional-piano?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/emotional-piano.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/emotional-piano.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "casual-afternoon",
+      "type": "registry:lib",
+      "title": "Casual Afternoon",
+      "description": "A mellow synthesizer-based instrumental track with a relaxed, easygoing character. Suitable as background music for calm, everyday scenes or as ambient accompaniment to work and leisure activities.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 87980,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/casual-afternoon?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/casual-afternoon.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/casual-afternoon.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cinematic-synth-pad",
+      "type": "registry:lib",
+      "title": "Cinematic Synth Pad",
+      "description": "A deep, dark cinematic pad with a slow-moving ambient texture that evolves gradually through layered synth processing and delay effects. The sound sits in the low-mid frequencies with a noisy, ethere…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 54667,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-synth-pad?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-synth-pad.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-synth-pad.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "ambient-arp-pad",
+      "type": "registry:lib",
+      "title": "Ambient Arp Pad",
+      "description": "A lush, evolving ambient arp texture with ethereal pads and glisten, rich in mid-range harmonic content that sits deep and dreamy with a slow, warm attack and minimal percussive character.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 26667,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/ambient-arp-pad?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/ambient-arp-pad.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/ambient-arp-pad.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "happy-adventure",
+      "type": "registry:lib",
+      "title": "Happy Adventure",
+      "description": "A cheerful, retro 8-bit synthesized melody with a bouncy rhythm, perfect for uplifting game scenes or lighthearted video content. The simple, bright tones evoke classic arcade and early computer game…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 46811,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/happy-adventure?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/happy-adventure.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/happy-adventure.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "peaceful-days",
+      "type": "registry:lib",
+      "title": "Peaceful Days",
+      "description": "A serene, warmly-toned piano melody floating gently over soft synthesizer layers. Designed to evoke peaceful moments in retro RPG exploration and cozy puzzle gameplay.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 64000,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/peaceful-days?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/peaceful-days.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/peaceful-days.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "summer-memories",
+      "type": "registry:lib",
+      "title": "Summer Memories",
+      "description": "A serene, tonal synthesizer piece with warm, mellow character perfect for peaceful game scenes or relaxation. Soft pads create an evocative, nostalgic atmosphere ideal for cozy puzzle games and narra…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 65455,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/summer-memories?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/summer-memories.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/summer-memories.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "first-light-particles",
+      "type": "registry:lib",
+      "title": "First Light Particles",
+      "description": "A serene, introspective piano piece with ambient pads and subtle low-frequency textures. Designed for contemplative scenes, exploration, and emotional moments in games and interactive media.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 131720,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/first-light-particles?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/first-light-particles.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/first-light-particles.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "orchestral-ending",
+      "type": "registry:lib",
+      "title": "Ending Scene (Orchestral)",
+      "description": "A sweeping orchestral composition blending cinematic strings and brass with subtle rock elements, building to an emotional and uplifting conclusion. Works as an ending theme or dramatic turning point…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 145768,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/ending-scene-orchestral?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/orchestral-ending.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/orchestral-ending.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "sand-castles",
+      "type": "registry:lib",
+      "title": "Sand Castles",
+      "description": "A gentle, warmly toned synthesizer loop with minimal melodic movement and soft harmonic progression. Perfect for calm puzzle games, cozy adventure scenes, or peaceful exploration moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 71111,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/sand-castles?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/sand-castles.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/sand-castles.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "now-thats-automation",
+      "type": "registry:lib",
+      "title": "Now That's Automation",
+      "description": "A brooding synth-driven track with layered electronic tones and a steady pulse, evoking a sense of tension and intrigue. Suited for dark fantasy scenes, game transitions, or atmospheric background be…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 72453,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/now-thats-automation?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/now-thats-automation.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/now-thats-automation.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "road-chill",
+      "type": "registry:lib",
+      "title": "Helice Awesome Dance Adventure: Road 3 Chill",
+      "description": "A synthwave-driven dance track with layered synth melodies and steady 136 BPM groove, perfect for retro fantasy game scenes or upbeat video sequences. Bright mid-range synths and driving rhythm creat…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 106667,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/helice-awesome-dance-adventure-road-3-chill?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/road-chill.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/road-chill.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "at-home",
+      "type": "registry:lib",
+      "title": "At Home",
+      "description": "A serene orchestral composition featuring strings with a melancholic character. Suitable as a calm underscore or emotional backdrop for film and video projects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 74318,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/at-home?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/at-home.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/at-home.ts",
           "type": "registry:lib"
         }
       ]
@@ -1465,6 +3355,222 @@
       ]
     },
     {
+      "name": "grimy-radio-static-texture",
+      "type": "registry:lib",
+      "title": "Grimy Radio Static Texture",
+      "description": "A harsh, grimy digital radio static and interference effect with glitchy artifacts and lo-fi distortion, perfect for adding industrial grit and noise texture to transitions or breakdowns.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1753,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/grimy-radio-static-texture?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/grimy-radio-static-texture.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/grimy-radio-static-texture.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "digital-glitch-hit",
+      "type": "registry:lib",
+      "title": "Digital Glitch Hit",
+      "description": "A crispy, high-mid focused digital glitch texture with aggressive onset and noisy interference—punchy burst of filtered fuzz perfect for transitions, fills, and modern production effects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 600,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/digital-glitch-hit?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/digital-glitch-hit.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/digital-glitch-hit.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "stuttering-digital-glitch",
+      "type": "registry:lib",
+      "title": "Stuttering Digital Glitch",
+      "description": "A chaotic, pitched digital glitch with stuttering textures and aggressive hard edges, featuring rapid onset density and minimal sustain. The sound sits in the mid-range with sharp, unpredictable char…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 661,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/stuttering-digital-glitch?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/stuttering-digital-glitch.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/stuttering-digital-glitch.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glitchy-robotic-whoosh",
+      "type": "registry:lib",
+      "title": "Glitchy Robotic Whoosh",
+      "description": "A bright, glitchy digital servo or mechanical whir with metallic resonance and rapid onset pulses, characterized by mid-range spectral emphasis and stuttering rhythmic texture ideal for sci-fi transi…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 928,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glitchy-robotic-whoosh?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glitchy-robotic-whoosh.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glitchy-robotic-whoosh.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glitchy-synth-hit",
+      "type": "registry:lib",
+      "title": "Glitchy Synth Hit",
+      "description": "A harsh, glitchy one-shot with aggressive digital artifacts and bitcrushed textures, centered in the mid-low frequencies around 1.2 kHz with sharp onset and minimal decay—ideal for abrupt transitions…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 395,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glitchy-synth-hit?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glitchy-synth-hit.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glitchy-synth-hit.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glitchy-beepy-digital-static",
+      "type": "registry:lib",
+      "title": "Glitchy Beepy Digital Static",
+      "description": "A crispy, glitchy digital texture with bright mid-range presence and minimal low-end weight, featuring scattered onsets that create a stuttering, lo-fi electronic character ideal for experimental sou…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2952,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glitchy-beepy-digital-static?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glitchy-beepy-digital-static.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glitchy-beepy-digital-static.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glitchy-sci-fi-sweep",
+      "type": "registry:lib",
+      "title": "Glitchy Sci-Fi Sweep",
+      "description": "An eerie, glitchy alien sweep with distorted sub-bass and filtered noise bursts that rise and fall with sci-fi robotic character. The sound combines aggressive distortion, granular filtering, and ele…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6703,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glitchy-sci-fi-sweep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glitchy-sci-fi-sweep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glitchy-sci-fi-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "mechanical-glitch-stutter",
+      "type": "registry:lib",
+      "title": "Mechanical Glitch Stutter",
+      "description": "A sharp, digital glitch texture with mechanical stutters and pitched chaotic elements that cuts off abruptly—bright mid-range energy around 1.8 kHz gives it crispy definition despite low overall loud…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "glitch",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3038,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/mechanical-glitch-stutter?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/mechanical-glitch-stutter.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/mechanical-glitch-stutter.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "champagne-cork-pop",
       "type": "registry:lib",
       "title": "Champagne Cork Pop",
@@ -1622,6 +3728,330 @@
       "files": [
         {
           "path": "registry/soundza/sounds/short-pop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "pop-lip-cork",
+      "type": "registry:lib",
+      "title": "Pop Lip Cork",
+      "description": "A short, percussive pop sound made with the lips, resembling a cork coming out of a wine bottle. Works as a reaction accent or comedic punctuation in edits.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 650,
+        "syncMs": 200,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/pop-lip-cork?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/pop-lip-cork.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/pop-lip-cork.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cartoon-pop",
+      "type": "registry:lib",
+      "title": "Cartoon Pop",
+      "description": "A cheerful pop sound with a hollow, cartoonish quality, perfect for comedic moments or character reactions. Works well for comedic timing, transitions, or comedic hits in animation and video editing.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3086,
+        "syncMs": 2042,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cartoon-pop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cartoon-pop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cartoon-pop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "popping-squeak",
+      "type": "registry:lib",
+      "title": "Popping Squeak",
+      "description": "A series of small, squeaky popping sounds with a bright, plasticky character. Useful for comedic hits, toy sounds, or lighthearted UI feedback.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1832,
+        "syncMs": 592,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/popping-squeak?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/popping-squeak.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/popping-squeak.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "vocal-bubble-pop",
+      "type": "registry:lib",
+      "title": "Vocal Bubble Pop",
+      "description": "A bright, quick pop sound created from vocal techniques. Useful as a foley effect or UI response for interactive media.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4207,
+        "syncMs": 2044,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/vocal-bubble-pop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/vocal-bubble-pop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/vocal-bubble-pop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cartoon-pop-up-appearance",
+      "type": "registry:lib",
+      "title": "Cartoon Pop-Up Appearance",
+      "description": "A light, whimsical pop-up sound with a playful whistle-like quality, perfect for revealing a cute character or comedic moment in animation or web media.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1485,
+        "syncMs": 219,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cartoon-pop-up-appearance?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cartoon-pop-up-appearance.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cartoon-pop-up-appearance.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "bubble-1-2",
+      "type": "registry:lib",
+      "title": "Bubble 1",
+      "description": "A single bubble pops with a soft, wet acoustic burst. Useful as a quick foley accent or UI feedback sound.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 696,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/bubble-1-1?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/bubble-1-2.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/bubble-1-2.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "clean-mouth-pop",
+      "type": "registry:lib",
+      "title": "Clean Mouth Pop",
+      "description": "A quick, percussive popping sound made with the mouth, like a suction-cup release or cheek pop. Perfect for cartoon comedy moments and lighthearted sound design.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 627,
+        "syncMs": 184,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/clean-mouth-pop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/clean-mouth-pop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/clean-mouth-pop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cute-pop-up-zip",
+      "type": "registry:lib",
+      "title": "Cute Pop-Up Zip",
+      "description": "A light, whimsical pop-up sound with a zippy accent, perfect for cartoon character appearances or UI reveals. The sound combines a quick zip with a playful pop for charming, child-friendly moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1595,
+        "syncMs": 414,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cute-pop-up-zip?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cute-pop-up-zip.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cute-pop-up-zip.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "magic-potion-cork-pop",
+      "type": "registry:lib",
+      "title": "Magic Potion Cork Pop",
+      "description": "A sharp, bright pop as a cork is pulled from a magical potion bottle, with subtle sparkle and effervescence. Perfect for game inventory use or potion consumption sequences.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 642,
+        "syncMs": 288,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/magic-potion-cork-pop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/magic-potion-cork-pop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/magic-potion-cork-pop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "lip-pop",
+      "type": "registry:lib",
+      "title": "Lip Pop",
+      "description": "A series of quick popping and blooping sounds made with the lips and mouth. Ideal for cartoon effects, comedic reactions, and playful UI transitions.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6653,
+        "syncMs": 4226,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/lip-pop?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/lip-pop.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/lip-pop.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "party-popper-pop-with-air-rush",
+      "type": "registry:lib",
+      "title": "Party Popper Pop With Air Rush",
+      "description": "A sharp pop followed by a rushing burst of air as a party popper is fired directly at the microphone. The sound is dominated by the initial percussive pop and a strong wind noise from the compressed …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 610,
+        "syncMs": 117,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/party-popper-pop-with-air-rush?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/party-popper-pop-with-air-rush.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/party-popper-pop-with-air-rush.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "plop-2",
+      "type": "registry:lib",
+      "title": "Plop 2",
+      "description": "A quick, bright percussive pop or pluck sound with a short attack and minimal sustain. Useful for UI feedback, game interactions, or light foley moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "pop",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 359,
+        "syncMs": 110,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/plop-2?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/plop-2.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/plop-2.ts",
           "type": "registry:lib"
         }
       ]
@@ -1870,6 +4300,276 @@
       ]
     },
     {
+      "name": "crisp-block-click",
+      "type": "registry:lib",
+      "title": "Crisp Block Click",
+      "description": "A crispy, bright click with sharp attack and minimal sustain—a tight metronome-style percussion hit with concentrated high-mid frequencies ideal for timing references, grid guides, or adding snap to …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 758,
+        "syncMs": 5,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/crisp-block-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/crisp-block-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/crisp-block-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "mouse-click-crisp",
+      "type": "registry:lib",
+      "title": "Mouse Click Crisp",
+      "description": "A single, crisp mouse button click with a bright, percussive character. Ideal for user interface feedback and interaction sounds in applications and games.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 304,
+        "syncMs": 31,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/mouse-click-crisp?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/mouse-click-crisp.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/mouse-click-crisp.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "digital-click",
+      "type": "registry:lib",
+      "title": "Digital Click",
+      "description": "A crispy, bright click design sound with a sharp percussive attack—ideal for UI interactions, menu navigation, and game interface feedback. Its tight, articulate character sits in the mid-high freque…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 216,
+        "syncMs": 23,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/digital-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/digital-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/digital-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "menu-selection-click",
+      "type": "registry:lib",
+      "title": "Menu Selection Click",
+      "description": "A bright, crisp single click sound designed for user interface feedback. Ideal for confirming menu selections, button presses, or item pickups in games and applications.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 228,
+        "syncMs": 14,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/menu-selection-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/menu-selection-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/menu-selection-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "sharp-mouse-click",
+      "type": "registry:lib",
+      "title": "Sharp Mouse Click",
+      "description": "A crisp, high-pitched mouse button click with a sharp attack, ideal for highlighting selections, interactions, and UI feedback in videos and tutorials.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 264,
+        "syncMs": 162,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/sharp-mouse-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/sharp-mouse-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/sharp-mouse-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "standard-mouse-click",
+      "type": "registry:lib",
+      "title": "Standard Mouse Click",
+      "description": "A crisp, percussive click sound typical of a computer mouse button press. Suitable for UI feedback, game interactions, or video editing.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1254,
+        "syncMs": 494,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/standard-mouse-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/standard-mouse-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/standard-mouse-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "soft-mouse-click",
+      "type": "registry:lib",
+      "title": "Soft Mouse Click",
+      "description": "A crisp digital click sound suitable for user interface feedback, operating system interactions, or web browser button presses.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2329,
+        "syncMs": 1053,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/soft-mouse-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/soft-mouse-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/soft-mouse-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "light-switch-click-off",
+      "type": "registry:lib",
+      "title": "Light Switch Click Off",
+      "description": "A crisp mechanical click as a wall light switch is toggled off. Clean and immediate, perfect for user interface feedback or any scene requiring a realistic electrical switch sound.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 361,
+        "syncMs": 139,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/light-switch-click-off?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/light-switch-click-off.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/light-switch-click-off.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "soft-ui-tap",
+      "type": "registry:lib",
+      "title": "Soft UI Tap",
+      "description": "A gentle, tonal tap sound designed for user interface feedback. Clean and subtle, perfect for button presses and notifications on mobile devices or applications.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 415,
+        "syncMs": 5,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/soft-ui-tap-1?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/soft-ui-tap.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/soft-ui-tap.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "short-ui-click",
+      "type": "registry:lib",
+      "title": "Short UI Click",
+      "description": "A light, quick clicking sound suitable for button presses, menu navigation, and interface interactions in software applications and games. Clean and non-intrusive for user feedback.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "click",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 161,
+        "syncMs": 5,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/short-ui-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/short-ui-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/short-ui-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "mechanical-keyboard-click",
       "type": "registry:lib",
       "title": "Mechanical Keyboard Click",
@@ -1919,6 +4619,60 @@
       "files": [
         {
           "path": "registry/soundza/sounds/spacebar-keystroke.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "mechanical-keyboard-keystroke",
+      "type": "registry:lib",
+      "title": "Mechanical Keyboard Keystroke",
+      "description": "A sharp, percussive keystroke from a vintage 1986 DOS mechanical keyboard. A clean, high-quality single-strike recording useful for typing and keyboard interaction sound design.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "typing",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 400,
+        "syncMs": 16,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/mechanical-keyboard-keystroke?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/mechanical-keyboard-keystroke.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/mechanical-keyboard-keystroke.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "typewriter-ding",
+      "type": "registry:lib",
+      "title": "Typewriter Ding",
+      "description": "A sharp, bright metallic ding that marks the end of a typewriter line. A classic mechanical percussion sound with clear pitch and quick decay.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "typing",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1056,
+        "syncMs": 50,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/typewriter-ding?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/typewriter-ding.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/typewriter-ding.ts",
           "type": "registry:lib"
         }
       ]
@@ -2140,6 +4894,357 @@
       ]
     },
     {
+      "name": "microwave-ding",
+      "type": "registry:lib",
+      "title": "Microwave Ding",
+      "description": "A bright, single electronic chime that signals the end of a microwave cycle. Perfect for UI feedback or kitchen scene ambience.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2929,
+        "syncMs": 1548,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/microwave-ding?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/microwave-ding.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/microwave-ding.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "reverberant-synth-bell",
+      "type": "registry:lib",
+      "title": "Reverberant Synth Bell",
+      "description": "A deep, resonant bass bell with an eerie, haunting character that rings out with a slow decay and dark undertones—perfect for horror soundscapes, cinematic dread, and unsettling atmospheric moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6862,
+        "syncMs": 943,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/reverberant-synth-bell?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/reverberant-synth-bell.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/reverberant-synth-bell.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "bright-bell-chime",
+      "type": "registry:lib",
+      "title": "Bright Bell Chime",
+      "description": "A bright, metallic bell chime with a sharp attack and shimmering high-frequency content that rings out cleanly around 4kHz—perfect for adding a delicate, percussive accent or transition element to pr…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2519,
+        "syncMs": 78,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/bright-bell-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/bright-bell-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/bright-bell-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glockenspiel-chime",
+      "type": "registry:lib",
+      "title": "Glockenspiel Chime",
+      "description": "A bright, crystalline glockenspiel chime with a sharp attack and rapid decay, sitting in the upper-mid frequency range with a clean, metallic character. Perfect for adding sparkle, transitions, or me…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1463,
+        "syncMs": 213,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glockenspiel-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glockenspiel-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glockenspiel-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glockenspiel-success-chime",
+      "type": "registry:lib",
+      "title": "Glockenspiel Success Chime",
+      "description": "A bright, crystalline chime that rises and falls with a single strike on the glockenspiel. Perfect for marking wins, level completions, or bonus triggers in games and interactive media.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2534,
+        "syncMs": 237,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glockenspiel-success-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glockenspiel-success-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glockenspiel-success-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glass-ding",
+      "type": "registry:lib",
+      "title": "Glass Ding",
+      "description": "A bright, crisp bell-like tone produced by tapping a sherry glass with a knife. Quick attack and resonant decay make it ideal for game notifications, correct answer chimes, or UI feedback.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 550,
+        "syncMs": 12,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glass-ding?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glass-ding.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glass-ding.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "power-up-apply-chime",
+      "type": "registry:lib",
+      "title": "Power-Up Apply Chime",
+      "description": "A bright, ascending chime with a magical shimmer that sparkles and fades. Ideal for status enhancements, buffs, or healing items in games.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1108,
+        "syncMs": 152,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/power-up-apply-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/power-up-apply-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/power-up-apply-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "fantasy-ui-chime",
+      "type": "registry:lib",
+      "title": "Fantasy UI Chime",
+      "description": "A bright, ethereal chime with shimmering sparkle tones, perfect for magical interface feedback and fantasy UI interactions. The sound has a delicate fairy-like quality with tonal purity and quick art…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1352,
+        "syncMs": 208,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/fantasy-ui-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/fantasy-ui-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/fantasy-ui-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "phone-notification-chime",
+      "type": "registry:lib",
+      "title": "Phone Notification Chime",
+      "description": "A bright, tonal synthesized chime made on a KORG M1, designed as a custom phone notification alert. Clean, quick, and attention-grabbing.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1907,
+        "syncMs": 267,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/phone-notification-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/phone-notification-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/phone-notification-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "synthetic-bell-tone",
+      "type": "registry:lib",
+      "title": "Synthetic Bell Tone",
+      "description": "A bright, metallic bell-like synthesizer tone with minimal attack and quick resonance, reminiscent of classic Yamaha digital keyboard alerts or notification chimes. Punchy and percussive with a clean…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 930,
+        "syncMs": 135,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/synthetic-bell-tone?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/synthetic-bell-tone.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/synthetic-bell-tone.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "warm-piano-bell",
+      "type": "registry:lib",
+      "title": "Warm Piano Bell",
+      "description": "A warm, ethereal bell-like chord texture with rich harmonic complexity and a sustained, atmospheric quality centered in the low-to-mid frequencies. The sound has a lush, layered character with smooth…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3901,
+        "syncMs": 51,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/warm-piano-bell?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/warm-piano-bell.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/warm-piano-bell.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "affirmative-decision-chime",
+      "type": "registry:lib",
+      "title": "Affirmative Decision Chime",
+      "description": "A bright, quick chime that confirms a positive choice or successful action in a game or application. The sound is short and punchy, designed to provide clear audio feedback when the user selects \"yes…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 169,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/affirmative-decision-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/affirmative-decision-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/affirmative-decision-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "pop-up-notification-chime",
+      "type": "registry:lib",
+      "title": "Pop-Up Notification Chime",
+      "description": "A bright, short tonal chime designed for system alerts and window notifications. Ideal for chat notifications, email alerts, and application pop-ups.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "notification",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 423,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/pop-up-notification-chime?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/pop-up-notification-chime.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/pop-up-notification-chime.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "wrong-answer-buzzer",
       "type": "registry:lib",
       "title": "Wrong Answer Buzzer Short",
@@ -2275,6 +5380,276 @@
       ]
     },
     {
+      "name": "buzzer",
+      "type": "registry:lib",
+      "title": "Buzzer",
+      "description": "A synthesized buzzer with rapid alternating tones, commonly used for wrong answers or emergency alerts in game shows and quiz programs.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1920,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/buzzer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/buzzer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/buzzer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "classic-bleep-error-sound",
+      "type": "registry:lib",
+      "title": "Classic Bleep/Error Sound",
+      "description": "A series of pitched beep and bleep tones with a bright, mid-range character and minimal sustain—perfect for retro video game sounds, error alerts, or glitchy transitions. The rapid note sequences and…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2000,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/classic-bleep-error-sound?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/classic-bleep-error-sound.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/classic-bleep-error-sound.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "quick-wrong-buzzer",
+      "type": "registry:lib",
+      "title": "Quick Wrong Buzzer",
+      "description": "A quick, descending buzzer tone that signals an incorrect answer or failure. Perfect for game shows, quizzes, and applications where you need to indicate a wrong choice or game-over moment.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 494,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/quick-wrong-buzzer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/quick-wrong-buzzer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/quick-wrong-buzzer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "horn-fail-wah-wah-low",
+      "type": "registry:lib",
+      "title": "Horn Fail Wah-Wah Low",
+      "description": "A comedic wah-wah effect produced by hand-muting a French horn's bell, descending through several pitches. Perfect for game show fails, wrong-answer buzzes, and comedic \"you lose\" moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4278,
+        "syncMs": 1277,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/horn-fail-wah-wah-low?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/horn-fail-wah-wah-low.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/horn-fail-wah-wah-low.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "incorrect-buzzer",
+      "type": "registry:lib",
+      "title": "Incorrect Buzzer",
+      "description": "A tonal buzzer sound signaling an incorrect answer or error, commonly used in game shows and quiz applications.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 601,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/incorrect-buzzer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/incorrect-buzzer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/incorrect-buzzer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "error-wrong-action",
+      "type": "registry:lib",
+      "title": "Error Wrong Action",
+      "description": "A short, tonally focused descending sound designed to signal an error or failed action. Ideal for apps, games, and user interfaces to indicate incorrect input or unsuccessful outcomes.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 397,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/error-wrong-action?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/error-wrong-action.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/error-wrong-action.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "error-beep",
+      "type": "registry:lib",
+      "title": "Error Beep",
+      "description": "A short, low-pitched electronic beep with a negative character, ideal for error alerts and failure notifications in UI or game contexts.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 420,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/error-beep?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/error-beep.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/error-beep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "fail-party-horn-wah-wah",
+      "type": "registry:lib",
+      "title": "Fail Party Horn Wah-Wah",
+      "description": "A descending, comical party horn honk with a characteristic wah-wah-wah pitch slide, perfect for slapstick moments and comedic timing in animations or comedy videos.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2973,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/fail-party-horn-wah-wah?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/fail-party-horn-wah-wah.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/fail-party-horn-wah-wah.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "sports-buzzer",
+      "type": "registry:lib",
+      "title": "Sports Buzzer",
+      "description": "A sharp electronic buzzer sound recorded during a volleyball game, with a sustained tone and clean attack. Ideal for sports events, game notifications, and competitive action cues.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3347,
+        "syncMs": 844,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/sports-buzzer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/sports-buzzer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/sports-buzzer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "clean-digital-error",
+      "type": "registry:lib",
+      "title": "Clean Digital Error",
+      "description": "A sharp, stuttering digital noise burst lasting half a second, designed to punctuate cuts and scene changes. The sound has a glitchy, data-corrupted character typical of screen artifacts or system er…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "error",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 470,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/clean-digital-error?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/clean-digital-error.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/clean-digital-error.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "sparkle-1",
       "type": "registry:lib",
       "title": "Sparkle 1",
@@ -2378,6 +5753,276 @@
       "files": [
         {
           "path": "registry/soundza/sounds/reverse-bell-sweep.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "shimmering-harp-arpeggio",
+      "type": "registry:lib",
+      "title": "Shimmering Harp Arpeggio",
+      "description": "A bright, airy harp glissando with a crystalline shimmer and quick decay, delivering a delicate orchestral flourish perfect for transitions and dramatic moments. The mid-range brightness and minimal …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3840,
+        "syncMs": 900,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/shimmering-harp-arpeggio?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/shimmering-harp-arpeggio.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/shimmering-harp-arpeggio.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "glassy-shimmer",
+      "type": "registry:lib",
+      "title": "Glassy Shimmer",
+      "description": "A bright, tonal shimmer with crystalline chimes and sparkly peaks that evoke fairy dust or a magical reveal. Clean and designed for visual moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1954,
+        "syncMs": 246,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/glassy-shimmer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/glassy-shimmer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/glassy-shimmer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "sparkle-shimmer",
+      "type": "registry:lib",
+      "title": "Sparkle Shimmer",
+      "description": "A delicate, twinkling shimmer with a soft, melodic quality. Perfect for magical moments, transitions, or UI feedback.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2769,
+        "syncMs": 169,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/sparkle-shimmer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/sparkle-shimmer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/sparkle-shimmer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "fairy-dust-shimmer",
+      "type": "registry:lib",
+      "title": "Fairy Dust Shimmer",
+      "description": "A delicate, shimmering sparkle with a sustained, tonal quality and minimal attack. Perfect for magical transformations, reveals, or enchanted moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5500,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/fairy-dust-shimmer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/fairy-dust-shimmer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/fairy-dust-shimmer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "crystal-shimmer",
+      "type": "registry:lib",
+      "title": "Crystal Shimmer",
+      "description": "Ethereal, high-pitched bell-like tones with a sparkling, shimmering quality. Perfect for magical moments, treasure reveals, or fairy dust effects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3982,
+        "syncMs": 191,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/crystal-shimmer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/crystal-shimmer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/crystal-shimmer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "magical-sparkle-shimmer",
+      "type": "registry:lib",
+      "title": "Magical Sparkle Shimmer",
+      "description": "A bright, ethereal shimmer with delicate chime-like tones that rise and glimmer, evoking fairy dust or magical sparkle. Ideal for transitions, magical reveals, or enchantment effects in video and gam…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6462,
+        "syncMs": 839,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/magical-sparkle-shimmer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/magical-sparkle-shimmer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/magical-sparkle-shimmer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "teleport-shimmer",
+      "type": "registry:lib",
+      "title": "Teleport Shimmer",
+      "description": "A bright, shimmering sci-fi effect with a quick attack and multiple overlapping tones, perfect for game teleportation, portal appearances, or character vanishing effects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 752,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/teleport-shimmer?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/teleport-shimmer.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/teleport-shimmer.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "magical-appearance-poof",
+      "type": "registry:lib",
+      "title": "Magical Appearance Poof",
+      "description": "A whooshing ethereal sound with shimmering tonal qualities, suggesting a magical teleportation or ghostly appearance. Ideal for fantasy spells, character reveals, or magical transitions in video and …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5839,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/magical-appearance-poof?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/magical-appearance-poof.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/magical-appearance-poof.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "magic-shimmer-burst",
+      "type": "registry:lib",
+      "title": "Magic Shimmer Burst",
+      "description": "A bright, shimmering burst of synth sparkles with reverb and delay, designed to accompany magical moments or fairy dust effects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1609,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/magic-shimmer-burst?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/magic-shimmer-burst.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/magic-shimmer-burst.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "distant-star-sparkle",
+      "type": "registry:lib",
+      "title": "Distant Star Sparkle",
+      "description": "A delicate, twinkling shimmer with high-frequency sparkles suggesting a distant star glowing in space. Ideal for magical moments, transitions, or enchanted reveals.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "magic",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 3040,
+        "syncMs": 235,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/distant-star-sparkle?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/distant-star-sparkle.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/distant-star-sparkle.ts",
           "type": "registry:lib"
         }
       ]
@@ -2599,6 +6244,222 @@
       ]
     },
     {
+      "name": "roomy-finger-snap",
+      "type": "registry:lib",
+      "title": "Roomy Finger Snap",
+      "description": "A crisp, percussive finger snap with bright, punchy mid-high frequency content and minimal sustain—perfect for adding articulate rhythmic texture or layering with drums for added definition and snap.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1207,
+        "syncMs": 59,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/roomy-finger-snap?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/roomy-finger-snap.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/roomy-finger-snap.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "quick-finger-snap",
+      "type": "registry:lib",
+      "title": "Quick Finger Snap",
+      "description": "A bright, crispy finger click or snap with a sharp attack and minimal sustain, sitting high in the frequency spectrum with percussive bite and snap character—ideal for adding articulation and rhythmi…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 108,
+        "syncMs": 13,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/quick-finger-snap?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/quick-finger-snap.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/quick-finger-snap.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "snare-drumroll",
+      "type": "registry:lib",
+      "title": "Snare Drumroll",
+      "description": "A crispy, tight snare roll with punchy articulation and a clean mid-range focus, characteristic of ceremonial or orchestral percussion contexts. The rapid onset density and short decay create a sharp…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6242,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/snare-drumroll?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/snare-drumroll.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/snare-drumroll.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "short-crash-cymbal",
+      "type": "registry:lib",
+      "title": "Short Crash Cymbal",
+      "description": "A bright, crispy crash cymbal with sharp attack and airy high-frequency shimmer that cuts through mixes. Fast transient impact with extended metallic decay, ideal for punctuating beats and adding cla…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1450,
+        "syncMs": 82,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/short-crash-cymbal?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/short-crash-cymbal.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/short-crash-cymbal.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "warm-crash-cymbal",
+      "type": "registry:lib",
+      "title": "Warm Crash Cymbal",
+      "description": "A bright, metallic crash cymbal hit with crispy mid-range attack and rapid decay, ideal for punchy percussion layers and dynamic kit sounds.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2838,
+        "syncMs": 45,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/warm-crash-cymbal?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/warm-crash-cymbal.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/warm-crash-cymbal.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "long-crash-cymbal",
+      "type": "registry:lib",
+      "title": "Long Crash Cymbal",
+      "description": "A bright, crispy crash cymbal hit with sharp metallic attack and quick decay, cutting through the high-mid frequencies with aggressive presence and minimal sustain—ideal for punctuating breaks and tr…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 4074,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/long-crash-cymbal?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/long-crash-cymbal.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/long-crash-cymbal.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cymbal-scrape",
+      "type": "registry:lib",
+      "title": "Cymbal Scrape",
+      "description": "A sustained cymbal scraping sound with bright, shimmering metallic texture and gradual intensity build; the scraping technique produces a continuous, atmospheric wash rather than a traditional struck…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2783,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cymbal-scrape?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cymbal-scrape.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cymbal-scrape.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "tight-snare-drumroll",
+      "type": "registry:lib",
+      "title": "Tight Snare Drumroll",
+      "description": "A tight, punchy snare drumroll fill with crispy mid-range presence and rapid articulation, delivering rhythmic energy in under a third of a second. The fast onset density and sharp attack make it per…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "accent",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 302,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/tight-snare-drumroll?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/tight-snare-drumroll.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/tight-snare-drumroll.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "camera-shutter-snap",
       "type": "registry:lib",
       "title": "Camera Shutter Snap",
@@ -2729,6 +6590,195 @@
       "files": [
         {
           "path": "registry/soundza/sounds/book-page-flip.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "olympus-camera-shutter-click",
+      "type": "registry:lib",
+      "title": "Olympus Camera Shutter Click",
+      "description": "A quick mechanical shutter snap from a DSLR camera. Bright, crisp percussive click useful for photo moments, UI feedback, or transitions in video.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1562,
+        "syncMs": 761,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/olympus-camera-shutter-click?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/olympus-camera-shutter-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/olympus-camera-shutter-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "camera-flash-clicks",
+      "type": "registry:lib",
+      "title": "Camera Flash Clicks",
+      "description": "Multiple camera flash triggers with mechanical clicks, recorded at varying distances. Sharp percussive bursts typical of a DSLR shutter and flash firing in sequence.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 5500,
+        "syncMs": 2940,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/camera-flash-clicks?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/camera-flash-clicks.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/camera-flash-clicks.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "dslr-camera-shots",
+      "type": "registry:lib",
+      "title": "DSLR Camera Shots",
+      "description": "Multiple camera shutter clicks and mechanical sounds from a DSLR camera being operated. Useful for photography, documentary, or studio scenes.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 2441,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/dslr-camera-shots?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/dslr-camera-shots.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/dslr-camera-shots.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "camera-shutter-click",
+      "type": "registry:lib",
+      "title": "Camera Shutter Click",
+      "description": "A crisp mechanical click from a vintage Brownie Hawkeye camera shutter. Ideal for adding authentic camera operation sounds to video projects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 6222,
+        "syncMs": 755,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/camera-shutter-click-2?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/camera-shutter-click.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/camera-shutter-click.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cover-paper-tear-1",
+      "type": "registry:lib",
+      "title": "Cover Paper Tear 1",
+      "description": "A sharp, crisp tearing sound as paper or cardboard is ripped apart. Useful for transitions, destruction moments, or foley accents in games and video.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 1262,
+        "syncMs": 414,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/cover-paper-tear-1?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cover-paper-tear-1.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cover-paper-tear-1.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "paper-tear-8",
+      "type": "registry:lib",
+      "title": "Paper Tear 8",
+      "description": "A sharp, crisp tearing sound as paper is ripped forcefully. Suitable for transitions, page turns, or dramatic paper destruction moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 511,
+        "syncMs": 113,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/paper-tear-8?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/paper-tear-8.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/paper-tear-8.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "paper-3",
+      "type": "registry:lib",
+      "title": "Paper 3",
+      "description": "A brief, crunchy paper manipulation sound with multiple quick crinkles and rustles. Useful for foley, transitions, or comedic effect moments.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "misc",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 550,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/paper-3?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/paper-3.wav"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/paper-3.ts",
           "type": "registry:lib"
         }
       ]

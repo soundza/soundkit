@@ -12,9 +12,14 @@
 export type SoundzaAsset = {
   name: string;
   title: string;
-  /** The sound itself, embedded as an MP3. Nothing is fetched from Soundza when it plays. */
+  /**
+   * The sound itself: an embedded MP3 for an effect, so nothing is fetched from
+   * Soundza when it plays; for a music bed, its path under public/ ("/sounds/<name>.mp3").
+   */
   src: string;
-  /** The full-quality WAV, to download once into a project. */
+  /** A music bed's file under public/, downloaded once from `download` (too big to embed). Null for effects. */
+  file?: string | null;
+  /** The full-quality file (a WAV, or an MP3 for a bed), to download once into a project. */
   download: string;
   /** The sound's page on soundza.com. */
   page: string;

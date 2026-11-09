@@ -10,8 +10,11 @@
  * Source: https://github.com/soundza/soundkit
  */
 import { Audio } from "@remotion/media";
-import { Sequence, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
+import { Sequence, interpolate, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import type { SoundzaAsset } from "@/lib/soundza";
+
+/** Effects play from their embedded audio; music beds from their file in public/. */
+const source = (sound: SoundzaAsset) => (sound.file ? staticFile(sound.file) : sound.src);
 
 /**
  * One sound with its hit on frame `at` (in the parent Sequence's time): it
@@ -31,7 +34,7 @@ export const SoundzaSound: React.FC<{
   const trimBefore = from < 0 ? -from : 0;
   return (
     <Sequence from={Math.max(0, from)} durationInFrames={durationInFrames} layout="none" name={`${sound.name} (Soundza)`}>
-      <Audio src={sound.src} trimBefore={trimBefore || undefined} volume={volume} />
+      <Audio src={source(sound)} trimBefore={trimBefore || undefined} volume={volume} />
     </Sequence>
   );
 };
@@ -60,5 +63,5 @@ export const SoundzaMusicBed: React.FC<{
     ),
   );
   const loop = sound.durationMs != null && (sound.durationMs / 1000) * fps < durationInFrames;
-  return <Audio src={sound.src} volume={volume * envelope * duck} loop={loop} />;
+  return <Audio src={source(sound)} volume={volume * envelope * duck} loop={loop} />;
 };
