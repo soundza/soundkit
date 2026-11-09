@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Melodies With A Beat: Shoepop, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Observing the Star, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,15 +11,15 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const shoepopBeat: SoundzaAsset = {
-  name: "shoepop-beat",
-  title: "Melodies With A Beat: Shoepop",
-  src: "/sounds/shoepop-beat.mp3",
-  file: "sounds/shoepop-beat.mp3",
-  download: "https://soundza.com/soundkit/shoepop-beat.mp3",
-  page: "https://soundza.com/sound/melodies-with-a-beat-shoepop?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 164232,
+export const observingTheStar: SoundzaAsset = {
+  name: "observing-the-star",
+  title: "Observing the Star",
+  src: "/sounds/observing-the-star.mp3",
+  file: "sounds/observing-the-star.mp3",
+  download: "https://soundza.com/soundkit/observing-the-star.mp3",
+  page: "https://soundza.com/sound/observing-the-star?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 134430,
   syncMs: null,
-  loop: false,
+  loop: true,
   ai: false,
 };

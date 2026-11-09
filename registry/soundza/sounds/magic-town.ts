@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Melodies With A Beat: Beach, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Magic Town, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,14 +11,14 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const beachBeat: SoundzaAsset = {
-  name: "beach-beat",
-  title: "Melodies With A Beat: Beach",
-  src: "/sounds/beach-beat.mp3",
-  file: "sounds/beach-beat.mp3",
-  download: "https://soundza.com/soundkit/beach-beat.mp3",
-  page: "https://soundza.com/sound/melodies-with-a-beat-beach?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 161045,
+export const magicTown: SoundzaAsset = {
+  name: "magic-town",
+  title: "Magic Town",
+  src: "/sounds/magic-town.mp3",
+  file: "sounds/magic-town.mp3",
+  download: "https://soundza.com/soundkit/magic-town.mp3",
+  page: "https://soundza.com/sound/magic-town?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 55693,
   syncMs: null,
   loop: false,
   ai: false,

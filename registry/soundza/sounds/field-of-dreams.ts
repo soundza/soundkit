@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Instrumental R&B Beats to Sing or Rap On: Walking Shoes, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * The Field of Dreams, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,15 +11,15 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const walkingShoesRnb: SoundzaAsset = {
-  name: "walking-shoes-rnb",
-  title: "Instrumental R&B Beats to Sing or Rap On: Walking Shoes",
-  src: "/sounds/walking-shoes-rnb.mp3",
-  file: "sounds/walking-shoes-rnb.mp3",
-  download: "https://soundza.com/soundkit/walking-shoes-rnb.mp3",
-  page: "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-walking-shoes?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 167184,
+export const fieldOfDreams: SoundzaAsset = {
+  name: "field-of-dreams",
+  title: "The Field of Dreams",
+  src: "/sounds/field-of-dreams.mp3",
+  file: "sounds/field-of-dreams.mp3",
+  download: "https://soundza.com/soundkit/field-of-dreams.mp3",
+  page: "https://soundza.com/sound/the-field-of-dreams?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 84637,
   syncMs: null,
-  loop: false,
+  loop: true,
   ai: false,
 };

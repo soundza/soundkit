@@ -2437,10 +2437,10 @@
       ]
     },
     {
-      "name": "work-beat",
+      "name": "peaceful-days",
       "type": "registry:lib",
-      "title": "Melodies With A Beat: Work",
-      "description": "A full-length hip-hop beat with warm, punchy drums and a lush melodic foundation centered in the lower mids—built for vocal layering with tight grooves and spacious headroom.",
+      "title": "Peaceful Days",
+      "description": "A serene, warmly-toned piano melody floating gently over soft synthesizer layers. Designed to evoke peaceful moments in retro RPG exploration and cozy puzzle gameplay.",
       "registryDependencies": [
         "https://soundza.com/r/soundza.json"
       ],
@@ -2449,313 +2449,16 @@
         "sound"
       ],
       "meta": {
-        "durationMs": 145032,
+        "durationMs": 64000,
         "syncMs": null,
         "loop": false,
         "ai": false,
-        "page": "https://soundza.com/sound/melodies-with-a-beat-work?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/work-beat.mp3"
+        "page": "https://soundza.com/sound/peaceful-days?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/peaceful-days.mp3"
       },
       "files": [
         {
-          "path": "registry/soundza/sounds/work-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "sweet-you-beat",
-      "type": "registry:lib",
-      "title": "Melodies With A Beat: Sweet You",
-      "description": "A mid-tempo instrumental beat with warm, groove-oriented character centered in the midrange; punchy yet controlled dynamics with vocal-friendly space and organic rhythmic pocket at 117 BPM in D major.",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 160026,
-        "syncMs": null,
-        "loop": true,
-        "ai": false,
-        "page": "https://soundza.com/sound/melodies-with-a-beat-sweet-you?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/sweet-you-beat.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/sweet-you-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "beach-beat",
-      "type": "registry:lib",
-      "title": "Melodies With A Beat: Beach",
-      "description": "A mid-tempo instrumental beat sitting at 117 BPM in A minor with warm, groove-focused energy and balanced mid-range presence—designed as an open canvas for vocal layering. The tight, punchy rhythm wi…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 161045,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/melodies-with-a-beat-beach?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/beach-beat.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/beach-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "industry-beat",
-      "type": "registry:lib",
-      "title": "Melodies With A Beat: Industry",
-      "description": "A mid-tempo hip-hop beat with layered drums, punchy kick and snare, and atmospheric pad textures creating space for vocal delivery. The production balances tight percussion groove with warm, lush bac…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 137038,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/melodies-with-a-beat-industry?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/industry-beat.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/industry-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "shoepop-beat",
-      "type": "registry:lib",
-      "title": "Melodies With A Beat: Shoepop",
-      "description": "A low-end focused instrumental beat with warm, boomy character and minimal high-frequency content—designed as an open canvas for vocal placement. The groove sits in the sub and low-mid range with tig…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 164232,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/melodies-with-a-beat-shoepop?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/shoepop-beat.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/shoepop-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "love-her-beat",
-      "type": "registry:lib",
-      "title": "Melodies With A Beat: Love Her",
-      "description": "A mellow, groove-oriented instrumental beat at 117 BPM in E minor with warm low-end foundation and minimal high-frequency content—designed as an open canvas for vocal layering. The sparse, relaxed on…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 145032,
-        "syncMs": null,
-        "loop": true,
-        "ai": false,
-        "page": "https://soundza.com/sound/melodies-with-a-beat-love-her?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/love-her-beat.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/love-her-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "friend-to-friend-rnb",
-      "type": "registry:lib",
-      "title": "Instrumental R&B Beats to Sing or Rap On: Friend to friend",
-      "description": "A 129 BPM instrumental beat in G# minor with warm, mid-focused production and moderate rhythmic density ideal for vocal layering. The mix balances punchy drums with rich harmonic content, featuring a…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 163500,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-friend-to-friend?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/friend-to-friend-rnb.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/friend-to-friend-rnb.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "summer-pride-rnb",
-      "type": "registry:lib",
-      "title": "Instrumental R&B Beats to Sing or Rap On: Summer Pride",
-      "description": "A warm, groove-oriented instrumental beat at 86 BPM with prominent mid-range presence and low-end foundation, designed as an open canvas for vocal recording. The balanced spectral profile and smooth …",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 173270,
-        "syncMs": null,
-        "loop": true,
-        "ai": false,
-        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-summer-pride?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/summer-pride-rnb.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/summer-pride-rnb.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "sunglasses-rnb",
-      "type": "registry:lib",
-      "title": "Instrumental R&B Beats to Sing or Rap On: Sunglasses",
-      "description": "A laid-back instrumental beat with warm, mid-focused production and moderate groove energy—designed as an open canvas for vocal layering with smooth mid-range presence and gentle dynamics.",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 169639,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-sunglasses?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/sunglasses-rnb.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/sunglasses-rnb.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "walking-shoes-rnb",
-      "type": "registry:lib",
-      "title": "Instrumental R&B Beats to Sing or Rap On: Walking Shoes",
-      "description": "A laid-back, groove-oriented instrumental beat at 86 BPM with warm low-end presence and minimal high-frequency detail, designed as a full-length foundation for vocal performances. The mid-range focus…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 167184,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-walking-shoes?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/walking-shoes-rnb.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/walking-shoes-rnb.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "power-of-the-beat",
-      "type": "registry:lib",
-      "title": "The Power Of The Beat",
-      "description": "A driving house beat with punchy percussion, tight kick and snare groove, and energetic hi-hat patterns designed to lock in vocals and maintain dancefloor momentum throughout its full 161-second arra…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 161646,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/the-power-of-the-beat?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/power-of-the-beat.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/power-of-the-beat.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "techno-drive",
-      "type": "registry:lib",
-      "title": "Techno 3",
-      "description": "A driving electronic synthesizer composition with sci-fi undertones, featuring pulsing synth layers and a steady rhythm typical of techno production. Suitable for futuristic scenes, game environments…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 113074,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/techno-3?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/techno-drive.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/techno-drive.ts",
+          "path": "registry/soundza/sounds/peaceful-days.ts",
           "type": "registry:lib"
         }
       ]
@@ -2788,87 +2491,6 @@
       ]
     },
     {
-      "name": "casual-afternoon",
-      "type": "registry:lib",
-      "title": "Casual Afternoon",
-      "description": "A mellow synthesizer-based instrumental track with a relaxed, easygoing character. Suitable as background music for calm, everyday scenes or as ambient accompaniment to work and leisure activities.",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 87980,
-        "syncMs": null,
-        "loop": false,
-        "ai": false,
-        "page": "https://soundza.com/sound/casual-afternoon?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/casual-afternoon.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/casual-afternoon.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "cinematic-synth-pad",
-      "type": "registry:lib",
-      "title": "Cinematic Synth Pad",
-      "description": "A deep, dark cinematic pad with a slow-moving ambient texture that evolves gradually through layered synth processing and delay effects. The sound sits in the low-mid frequencies with a noisy, ethere…",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 54667,
-        "syncMs": null,
-        "loop": true,
-        "ai": false,
-        "page": "https://soundza.com/sound/cinematic-synth-pad?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/cinematic-synth-pad.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/cinematic-synth-pad.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
-      "name": "ambient-arp-pad",
-      "type": "registry:lib",
-      "title": "Ambient Arp Pad",
-      "description": "A lush, evolving ambient arp texture with ethereal pads and glisten, rich in mid-range harmonic content that sits deep and dreamy with a slow, warm attack and minimal percussive character.",
-      "registryDependencies": [
-        "https://soundza.com/r/soundza.json"
-      ],
-      "categories": [
-        "music",
-        "sound"
-      ],
-      "meta": {
-        "durationMs": 26667,
-        "syncMs": null,
-        "loop": true,
-        "ai": false,
-        "page": "https://soundza.com/sound/ambient-arp-pad?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/ambient-arp-pad.mp3"
-      },
-      "files": [
-        {
-          "path": "registry/soundza/sounds/ambient-arp-pad.ts",
-          "type": "registry:lib"
-        }
-      ]
-    },
-    {
       "name": "happy-adventure",
       "type": "registry:lib",
       "title": "Happy Adventure",
@@ -2896,10 +2518,10 @@
       ]
     },
     {
-      "name": "peaceful-days",
+      "name": "ambient-arp-pad",
       "type": "registry:lib",
-      "title": "Peaceful Days",
-      "description": "A serene, warmly-toned piano melody floating gently over soft synthesizer layers. Designed to evoke peaceful moments in retro RPG exploration and cozy puzzle gameplay.",
+      "title": "Ambient Arp Pad",
+      "description": "A lush, evolving ambient arp texture with ethereal pads and glisten, rich in mid-range harmonic content that sits deep and dreamy with a slow, warm attack and minimal percussive character.",
       "registryDependencies": [
         "https://soundza.com/r/soundza.json"
       ],
@@ -2908,16 +2530,16 @@
         "sound"
       ],
       "meta": {
-        "durationMs": 64000,
+        "durationMs": 26667,
         "syncMs": null,
-        "loop": false,
+        "loop": true,
         "ai": false,
-        "page": "https://soundza.com/sound/peaceful-days?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/peaceful-days.mp3"
+        "page": "https://soundza.com/sound/ambient-arp-pad?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/ambient-arp-pad.mp3"
       },
       "files": [
         {
-          "path": "registry/soundza/sounds/peaceful-days.ts",
+          "path": "registry/soundza/sounds/ambient-arp-pad.ts",
           "type": "registry:lib"
         }
       ]
@@ -2977,10 +2599,10 @@
       ]
     },
     {
-      "name": "orchestral-ending",
+      "name": "at-home",
       "type": "registry:lib",
-      "title": "Ending Scene (Orchestral)",
-      "description": "A sweeping orchestral composition blending cinematic strings and brass with subtle rock elements, building to an emotional and uplifting conclusion. Works as an ending theme or dramatic turning point…",
+      "title": "At Home",
+      "description": "A serene orchestral composition featuring strings with a melancholic character. Suitable as a calm underscore or emotional backdrop for film and video projects.",
       "registryDependencies": [
         "https://soundza.com/r/soundza.json"
       ],
@@ -2989,16 +2611,367 @@
         "sound"
       ],
       "meta": {
-        "durationMs": 145768,
+        "durationMs": 74318,
         "syncMs": null,
         "loop": true,
         "ai": false,
-        "page": "https://soundza.com/sound/ending-scene-orchestral?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/orchestral-ending.mp3"
+        "page": "https://soundza.com/sound/at-home?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/at-home.mp3"
       },
       "files": [
         {
-          "path": "registry/soundza/sounds/orchestral-ending.ts",
+          "path": "registry/soundza/sounds/at-home.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "a-place-i-call-home",
+      "type": "registry:lib",
+      "title": "A Place I Call Home",
+      "description": "A warm, melodic piano piece with gentle chord progressions, perfect for calm scenes and peaceful exploration in indie games. The sparse arrangement creates an intimate, introspective mood ideal for c…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 46452,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/a-place-i-call-home?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/a-place-i-call-home.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/a-place-i-call-home.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "where-was-i",
+      "type": "registry:lib",
+      "title": "Where Was I",
+      "description": "A warm, sustained synthesizer pad with soft harmonic evolution, perfect for ambient background music in exploration or town scenes. The sound floats gently with minimal rhythmic activity, creating an…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 68230,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/where-was-i?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/where-was-i.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/where-was-i.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "prairie-nights",
+      "type": "registry:lib",
+      "title": "Prairie Nights",
+      "description": "A warm, contemplative synth melody with mellow harmonic layers, evoking a quiet journey through grasslands. Ideal for exploration scenes in retro or indie RPGs.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 92903,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/prairie-nights?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/prairie-nights.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/prairie-nights.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "field-of-dreams",
+      "type": "registry:lib",
+      "title": "The Field of Dreams",
+      "description": "A sustained, dreamy synthesizer pad with gentle harmonic movement, ideal for cinematic backgrounds and fantasy atmospheres. The warm, evolving tones create an immersive, contemplative mood.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 84637,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/the-field-of-dreams?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/field-of-dreams.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/field-of-dreams.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "flowerbed-fields",
+      "type": "registry:lib",
+      "title": "Flowerbed Fields",
+      "description": "A bright, upbeat 8-bit synthesized loop with a playful melody and quick articulation, perfect for game intros, puzzle scenes, or adventure platformer backgrounds. Reminiscent of classic NES and Game …",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 105931,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/flowerbed-fields?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/flowerbed-fields.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/flowerbed-fields.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "where-time-stands-still",
+      "type": "registry:lib",
+      "title": "Where Time Stands Still",
+      "description": "A serene, piano-driven melody with gentle synth accompaniment, perfect for peaceful town scenes or reflective moments in a game. The warm, sparse arrangement evokes a sense of timelessness and tranqu…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 75506,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/where-time-stands-still?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/where-time-stands-still.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/where-time-stands-still.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "observing-the-star",
+      "type": "registry:lib",
+      "title": "Observing the Star",
+      "description": "A serene, floating synthesizer pad that evokes weightlessness and cosmic wonder. Ideal for sci-fi scenes, meditation, or background atmosphere in space-themed projects.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 134430,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/observing-the-star?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/observing-the-star.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/observing-the-star.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "hot-spring-town",
+      "type": "registry:lib",
+      "title": "Hot Spring Town",
+      "description": "A serene, upbeat town theme featuring traditional Japanese koto strings with a gentle, looping structure. Perfect for relaxing exploration scenes or peaceful village settings.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 160000,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/hot-spring-town?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/hot-spring-town.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/hot-spring-town.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "magic-town",
+      "type": "registry:lib",
+      "title": "Magic Town",
+      "description": "A bright, melodic synthesizer piece inspired by classic 16-bit RPG town themes, with a mysterious and whimsical character perfect for exploring a magical village or fantasy setting.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 55693,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/magic-town?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/magic-town.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/magic-town.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cyberpunk-moonlight-sonata",
+      "type": "registry:lib",
+      "title": "Cyberpunk Moonlight Sonata",
+      "description": "A modern synthesizer reimagining of Beethoven's classical piano piece, blending electronic textures with the recognizable melodic skeleton of the original. Dark and atmospheric, this dystopian take f…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 116667,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/cyberpunk-moonlight-sonata?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cyberpunk-moonlight-sonata.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cyberpunk-moonlight-sonata.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "insistent",
+      "type": "registry:lib",
+      "title": "Insistent",
+      "description": "A deep, tonal ambient drone with minimal harmonic movement and a vast sense of unease. Designed to sit under horror, dungeon, or dark narrative scenes without demanding attention.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 128693,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/insistent?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/insistent.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/insistent.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "casual-afternoon",
+      "type": "registry:lib",
+      "title": "Casual Afternoon",
+      "description": "A mellow synthesizer-based instrumental track with a relaxed, easygoing character. Suitable as background music for calm, everyday scenes or as ambient accompaniment to work and leisure activities.",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 87980,
+        "syncMs": null,
+        "loop": false,
+        "ai": false,
+        "page": "https://soundza.com/sound/casual-afternoon?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/casual-afternoon.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/casual-afternoon.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
+      "name": "cinematic-synth-pad",
+      "type": "registry:lib",
+      "title": "Cinematic Synth Pad",
+      "description": "A deep, dark cinematic pad with a slow-moving ambient texture that evolves gradually through layered synth processing and delay effects. The sound sits in the low-mid frequencies with a noisy, ethere…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 54667,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/cinematic-synth-pad?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/cinematic-synth-pad.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/cinematic-synth-pad.ts",
           "type": "registry:lib"
         }
       ]
@@ -3031,6 +3004,33 @@
       ]
     },
     {
+      "name": "orchestral-ending",
+      "type": "registry:lib",
+      "title": "Ending Scene (Orchestral)",
+      "description": "A sweeping orchestral composition blending cinematic strings and brass with subtle rock elements, building to an emotional and uplifting conclusion. Works as an ending theme or dramatic turning point…",
+      "registryDependencies": [
+        "https://soundza.com/r/soundza.json"
+      ],
+      "categories": [
+        "music",
+        "sound"
+      ],
+      "meta": {
+        "durationMs": 145768,
+        "syncMs": null,
+        "loop": true,
+        "ai": false,
+        "page": "https://soundza.com/sound/ending-scene-orchestral?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/orchestral-ending.mp3"
+      },
+      "files": [
+        {
+          "path": "registry/soundza/sounds/orchestral-ending.ts",
+          "type": "registry:lib"
+        }
+      ]
+    },
+    {
       "name": "now-thats-automation",
       "type": "registry:lib",
       "title": "Now That's Automation",
@@ -3058,10 +3058,10 @@
       ]
     },
     {
-      "name": "road-chill",
+      "name": "power-of-the-beat",
       "type": "registry:lib",
-      "title": "Helice Awesome Dance Adventure: Road 3 Chill",
-      "description": "A synthwave-driven dance track with layered synth melodies and steady 136 BPM groove, perfect for retro fantasy game scenes or upbeat video sequences. Bright mid-range synths and driving rhythm creat…",
+      "title": "The Power Of The Beat",
+      "description": "A driving house beat with punchy percussion, tight kick and snare groove, and energetic hi-hat patterns designed to lock in vocals and maintain dancefloor momentum throughout its full 161-second arra…",
       "registryDependencies": [
         "https://soundza.com/r/soundza.json"
       ],
@@ -3070,25 +3070,25 @@
         "sound"
       ],
       "meta": {
-        "durationMs": 106667,
+        "durationMs": 161646,
         "syncMs": null,
-        "loop": true,
+        "loop": false,
         "ai": false,
-        "page": "https://soundza.com/sound/helice-awesome-dance-adventure-road-3-chill?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/road-chill.mp3"
+        "page": "https://soundza.com/sound/the-power-of-the-beat?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/power-of-the-beat.mp3"
       },
       "files": [
         {
-          "path": "registry/soundza/sounds/road-chill.ts",
+          "path": "registry/soundza/sounds/power-of-the-beat.ts",
           "type": "registry:lib"
         }
       ]
     },
     {
-      "name": "at-home",
+      "name": "techno-drive",
       "type": "registry:lib",
-      "title": "At Home",
-      "description": "A serene orchestral composition featuring strings with a melancholic character. Suitable as a calm underscore or emotional backdrop for film and video projects.",
+      "title": "Techno 3",
+      "description": "A driving electronic synthesizer composition with sci-fi undertones, featuring pulsing synth layers and a steady rhythm typical of techno production. Suitable for futuristic scenes, game environments…",
       "registryDependencies": [
         "https://soundza.com/r/soundza.json"
       ],
@@ -3097,16 +3097,16 @@
         "sound"
       ],
       "meta": {
-        "durationMs": 74318,
+        "durationMs": 113074,
         "syncMs": null,
-        "loop": true,
+        "loop": false,
         "ai": false,
-        "page": "https://soundza.com/sound/at-home?utm_source=soundza-free-set&utm_medium=code",
-        "download": "https://soundza.com/soundkit/at-home.mp3"
+        "page": "https://soundza.com/sound/techno-3?utm_source=soundza-free-set&utm_medium=code",
+        "download": "https://soundza.com/soundkit/techno-drive.mp3"
       },
       "files": [
         {
-          "path": "registry/soundza/sounds/at-home.ts",
+          "path": "registry/soundza/sounds/techno-drive.ts",
           "type": "registry:lib"
         }
       ]

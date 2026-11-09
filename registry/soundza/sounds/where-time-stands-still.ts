@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Melodies With A Beat: Sweet You, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Where Time Stands Still, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,15 +11,15 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const sweetYouBeat: SoundzaAsset = {
-  name: "sweet-you-beat",
-  title: "Melodies With A Beat: Sweet You",
-  src: "/sounds/sweet-you-beat.mp3",
-  file: "sounds/sweet-you-beat.mp3",
-  download: "https://soundza.com/soundkit/sweet-you-beat.mp3",
-  page: "https://soundza.com/sound/melodies-with-a-beat-sweet-you?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 160026,
+export const whereTimeStandsStill: SoundzaAsset = {
+  name: "where-time-stands-still",
+  title: "Where Time Stands Still",
+  src: "/sounds/where-time-stands-still.mp3",
+  file: "sounds/where-time-stands-still.mp3",
+  download: "https://soundza.com/soundkit/where-time-stands-still.mp3",
+  page: "https://soundza.com/sound/where-time-stands-still?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 75506,
   syncMs: null,
-  loop: true,
+  loop: false,
   ai: false,
 };

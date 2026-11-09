@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Melodies With A Beat: Industry, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Hot Spring Town, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,14 +11,14 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const industryBeat: SoundzaAsset = {
-  name: "industry-beat",
-  title: "Melodies With A Beat: Industry",
-  src: "/sounds/industry-beat.mp3",
-  file: "sounds/industry-beat.mp3",
-  download: "https://soundza.com/soundkit/industry-beat.mp3",
-  page: "https://soundza.com/sound/melodies-with-a-beat-industry?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 137038,
+export const hotSpringTown: SoundzaAsset = {
+  name: "hot-spring-town",
+  title: "Hot Spring Town",
+  src: "/sounds/hot-spring-town.mp3",
+  file: "sounds/hot-spring-town.mp3",
+  download: "https://soundza.com/soundkit/hot-spring-town.mp3",
+  page: "https://soundza.com/sound/hot-spring-town?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 160000,
   syncMs: null,
   loop: false,
   ai: false,

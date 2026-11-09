@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Instrumental R&B Beats to Sing or Rap On: Summer Pride, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Where Was I, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,15 +11,15 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const summerPrideRnb: SoundzaAsset = {
-  name: "summer-pride-rnb",
-  title: "Instrumental R&B Beats to Sing or Rap On: Summer Pride",
-  src: "/sounds/summer-pride-rnb.mp3",
-  file: "sounds/summer-pride-rnb.mp3",
-  download: "https://soundza.com/soundkit/summer-pride-rnb.mp3",
-  page: "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-summer-pride?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 173270,
+export const whereWasI: SoundzaAsset = {
+  name: "where-was-i",
+  title: "Where Was I",
+  src: "/sounds/where-was-i.mp3",
+  file: "sounds/where-was-i.mp3",
+  download: "https://soundza.com/soundkit/where-was-i.mp3",
+  page: "https://soundza.com/sound/where-was-i?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 68230,
   syncMs: null,
-  loop: true,
+  loop: false,
   ai: false,
 };

@@ -2,7 +2,7 @@
 
 Free video sound effects for [Remotion](https://www.remotion.dev) and React, in two parts:
 
-1. **225 CC0 sound effects and 25 CC0 music beds** made for video (whooshes, transitions, hits, risers, logo stings, beds and the clicks of a product demo), added with one [shadcn](https://ui.shadcn.com) command. Each comes with its hit point, so a whoosh peaks on the cut and an impact lands on the title, on the exact frame.
+1. **225 non-AI, CC0 sound effects and 25 non-AI, CC0 music beds** made for video (whooshes, transitions, hits, risers, logo stings, beds and the clicks of a product demo), added with one [shadcn](https://ui.shadcn.com) command. Each comes with its hit point, so a whoosh peaks on the cut and an impact lands on the title, on the exact frame.
 2. **An agent skill** for Claude Code, Codex and Cursor that adds sound design to a Remotion video on its own: it finds the moments that need a sound, searches thousands more on [Soundza](https://soundza.com/?utm_source=soundza-soundkit&utm_medium=github), and places each one on its frame.
 
 Browse and listen: **[soundza.com/soundkit](https://soundza.com/soundkit)**
@@ -51,7 +51,7 @@ import { airWhoosh } from "@/sounds/air-whoosh";
 
 **Logo stings**: `melodic-shimmer-sting`, `crystalline-shimmer-sting`, `level-complete-stinger`, `sparkling-star-shimmer`, `brass-fanfare-stinger`, `level-up-success-fanfare`, `vibraphone-sting`, `success-fanfare`, `uplifting-success-stinger`, `victory-fanfare-sting`, `bah-dum-tss-sting`, `money-bag-jingle`, `steel-drum-jingle-12`, `pizzicato-jingle-6`
 
-**Music beds**: `work-beat`, `sweet-you-beat`, `beach-beat`, `industry-beat`, `shoepop-beat`, `love-her-beat`, `friend-to-friend-rnb`, `summer-pride-rnb`, `sunglasses-rnb`, `walking-shoes-rnb`, `power-of-the-beat`, `techno-drive`, `emotional-piano`, `casual-afternoon`, `cinematic-synth-pad`, `ambient-arp-pad`, `happy-adventure`, `peaceful-days`, `summer-memories`, `first-light-particles`, `orchestral-ending`, `sand-castles`, `now-thats-automation`, `road-chill`, `at-home`
+**Music beds**: `peaceful-days`, `emotional-piano`, `happy-adventure`, `ambient-arp-pad`, `summer-memories`, `first-light-particles`, `at-home`, `a-place-i-call-home`, `where-was-i`, `prairie-nights`, `field-of-dreams`, `flowerbed-fields`, `where-time-stands-still`, `observing-the-star`, `hot-spring-town`, `magic-town`, `cyberpunk-moonlight-sonata`, `insistent`, `casual-afternoon`, `cinematic-synth-pad`, `sand-castles`, `orchestral-ending`, `now-thats-automation`, `power-of-the-beat`, `techno-drive`
 
 **Glitch transitions**: `digital-zap`, `sci-fi-glitch-blip`, `retro-menu-click`, `glitch-transition-fx`, `glitchy-impact`, `stuttering-glitch`, `glitchy-digital-hit`, `vhs-glitch`, `digital-glitch-transition`, `grimy-radio-static-texture`, `digital-glitch-hit`, `stuttering-digital-glitch`, `glitchy-robotic-whoosh`, `glitchy-synth-hit`, `glitchy-beepy-digital-static`, `glitchy-sci-fi-sweep`, `mechanical-glitch-stutter`
 

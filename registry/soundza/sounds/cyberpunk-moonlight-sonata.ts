@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Instrumental R&B Beats to Sing or Rap On: Sunglasses, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Cyberpunk Moonlight Sonata, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,15 +11,15 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const sunglassesRnb: SoundzaAsset = {
-  name: "sunglasses-rnb",
-  title: "Instrumental R&B Beats to Sing or Rap On: Sunglasses",
-  src: "/sounds/sunglasses-rnb.mp3",
-  file: "sounds/sunglasses-rnb.mp3",
-  download: "https://soundza.com/soundkit/sunglasses-rnb.mp3",
-  page: "https://soundza.com/sound/instrumental-randb-beats-to-sing-or-rap-on-sunglasses?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 169639,
+export const cyberpunkMoonlightSonata: SoundzaAsset = {
+  name: "cyberpunk-moonlight-sonata",
+  title: "Cyberpunk Moonlight Sonata",
+  src: "/sounds/cyberpunk-moonlight-sonata.mp3",
+  file: "sounds/cyberpunk-moonlight-sonata.mp3",
+  download: "https://soundza.com/soundkit/cyberpunk-moonlight-sonata.mp3",
+  page: "https://soundza.com/sound/cyberpunk-moonlight-sonata?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 116667,
   syncMs: null,
-  loop: false,
+  loop: true,
   ai: false,
 };

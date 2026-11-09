@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Helice Awesome Dance Adventure: Road 3 Chill, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * A Place I Call Home, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,15 +11,15 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const roadChill: SoundzaAsset = {
-  name: "road-chill",
-  title: "Helice Awesome Dance Adventure: Road 3 Chill",
-  src: "/sounds/road-chill.mp3",
-  file: "sounds/road-chill.mp3",
-  download: "https://soundza.com/soundkit/road-chill.mp3",
-  page: "https://soundza.com/sound/helice-awesome-dance-adventure-road-3-chill?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 106667,
+export const aPlaceICallHome: SoundzaAsset = {
+  name: "a-place-i-call-home",
+  title: "A Place I Call Home",
+  src: "/sounds/a-place-i-call-home.mp3",
+  file: "sounds/a-place-i-call-home.mp3",
+  download: "https://soundza.com/soundkit/a-place-i-call-home.mp3",
+  page: "https://soundza.com/sound/a-place-i-call-home?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 46452,
   syncMs: null,
-  loop: true,
+  loop: false,
   ai: false,
 };

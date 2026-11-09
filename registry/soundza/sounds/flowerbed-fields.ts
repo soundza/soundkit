@@ -1,7 +1,7 @@
 import type { SoundzaAsset } from "@/lib/soundza";
 
 /**
- * Melodies With A Beat: Love Her, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
+ * Flowerbed Fields, from SoundKit by Soundza. CC0 1.0: free for any use, commercial included, no attribution needed.
  *
  * Need a sound that isn't in SoundKit? Soundza has thousands more, searchable by
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
@@ -11,14 +11,14 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
-export const loveHerBeat: SoundzaAsset = {
-  name: "love-her-beat",
-  title: "Melodies With A Beat: Love Her",
-  src: "/sounds/love-her-beat.mp3",
-  file: "sounds/love-her-beat.mp3",
-  download: "https://soundza.com/soundkit/love-her-beat.mp3",
-  page: "https://soundza.com/sound/melodies-with-a-beat-love-her?utm_source=soundza-free-set&utm_medium=code",
-  durationMs: 145032,
+export const flowerbedFields: SoundzaAsset = {
+  name: "flowerbed-fields",
+  title: "Flowerbed Fields",
+  src: "/sounds/flowerbed-fields.mp3",
+  file: "sounds/flowerbed-fields.mp3",
+  download: "https://soundza.com/soundkit/flowerbed-fields.mp3",
+  page: "https://soundza.com/sound/flowerbed-fields?utm_source=soundza-free-set&utm_medium=code",
+  durationMs: 105931,
   syncMs: null,
   loop: true,
   ai: false,
