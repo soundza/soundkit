@@ -7,8 +7,9 @@ import { AbsoluteFill, Img, interpolate, spring, staticFile, useCurrentFrame, us
 import { SoundzaMusicBed, SoundzaSound } from "@/components/soundza-remotion";
 import { airWhoosh } from "@/sounds/air-whoosh";
 import { quickAirWhoosh } from "@/sounds/quick-air-whoosh";
-import { whooshForWhipZoom } from "@/sounds/whoosh-for-whip-zoom";
-import { deepBassThump } from "@/sounds/deep-bass-thump";
+import { hit4 } from "@/sounds/hit-4";
+import { distantBassBoom } from "@/sounds/distant-bass-boom";
+import { crystallineShimmerSting } from "@/sounds/crystalline-shimmer-sting";
 import { shortPop } from "@/sounds/short-pop";
 import { digitalClick } from "@/sounds/digital-click";
 import { glockenspielSuccessChime } from "@/sounds/glockenspiel-success-chime";
@@ -36,6 +37,8 @@ const CUTS = STARTS.slice(1).map((start) => start + Math.round(T / 2));
 
 const TITLE_IN = 10;
 const CARDS = [14, 30, 46];
+/** The pops land a few frames after each card starts: when its spring has visibly arrived. */
+const POP_LAG = 3;
 const COUNT_FROM = 12;
 const COUNT_TO = 58;
 const LOGO_IN = 26;
@@ -67,19 +70,21 @@ export const KitPromo: React.FC = () => {
       </TransitionSeries>
 
       {/* Every sound below is from SoundKit, its hit placed on the frame its animation lands. */}
-      <SoundzaSound sound={deepBassThump} at={TITLE_IN} volume={0.9} />
+      <SoundzaSound sound={hit4} at={TITLE_IN} volume={0.75} />
+      <SoundzaSound sound={distantBassBoom} at={TITLE_IN} volume={0.8} />
       <SoundzaSound sound={airWhoosh} at={CUTS[0]} volume={0.7} />
       {CARDS.map((c) => (
-        <SoundzaSound key={c} sound={shortPop} at={STARTS[1] + c} volume={0.55} />
+        <SoundzaSound key={c} sound={shortPop} at={STARTS[1] + c + POP_LAG} volume={0.55} />
       ))}
       <SoundzaSound sound={quickAirWhoosh} at={CUTS[1]} volume={0.7} />
       {ticks.map((t) => (
         <SoundzaSound key={t} sound={digitalClick} at={t} volume={0.3} />
       ))}
       <SoundzaSound sound={glockenspielSuccessChime} at={STARTS[2] + COUNT_TO} volume={0.6} />
-      <SoundzaSound sound={whooshForWhipZoom} at={CUTS[2]} volume={0.45} />
       <SoundzaSound sound={reverseCymbalCrash} at={STARTS[3] + LOGO_IN} volume={0.5} />
-      <SoundzaSound sound={upliftingSuccessStinger} at={STARTS[3] + LOGO_IN} volume={0.8} />
+      <SoundzaSound sound={upliftingSuccessStinger} at={STARTS[3] + LOGO_IN} volume={0.55} />
+      <SoundzaSound sound={crystallineShimmerSting} at={STARTS[3] + LOGO_IN} volume={0.7} />
+      <SoundzaSound sound={distantBassBoom} at={STARTS[3] + LOGO_IN} volume={0.5} />
       <SoundzaMusicBed sound={casualAfternoon} volume={0.22} duckAt={[TITLE_IN, STARTS[3] + LOGO_IN]} />
     </AbsoluteFill>
   );
