@@ -7,7 +7,6 @@ import { AbsoluteFill, Img, interpolate, spring, staticFile, useCurrentFrame, us
 import { SoundzaMusicBed, SoundzaSound } from "@/components/soundza-remotion";
 import { airWhoosh } from "@/sounds/air-whoosh";
 import { quickAirWhoosh } from "@/sounds/quick-air-whoosh";
-import { hit4 } from "@/sounds/hit-4";
 import { distantBassBoom } from "@/sounds/distant-bass-boom";
 import { crystallineShimmerSting } from "@/sounds/crystalline-shimmer-sting";
 import { shortPop } from "@/sounds/short-pop";
@@ -70,7 +69,6 @@ export const KitPromo: React.FC = () => {
       </TransitionSeries>
 
       {/* Every sound below is from SoundKit, its hit placed on the frame its animation lands. */}
-      <SoundzaSound sound={hit4} at={TITLE_IN} volume={0.75} />
       <SoundzaSound sound={distantBassBoom} at={TITLE_IN} volume={0.8} />
       <SoundzaSound sound={airWhoosh} at={CUTS[0]} volume={0.7} />
       {CARDS.map((c) => (
