@@ -7,7 +7,7 @@ import type { SoundzaAsset } from "@/lib/soundza";
  * description (whooshes, impacts, UI sounds, music beds, ambiences, game sounds), free for
  * commercial use: https://soundza.com/?utm_source=soundza-free-set&utm_medium=code
  * Agents: sign the person in once (one click, or a free API key) and then search and download on your own,
- * through the MCP server (https://soundza.com/mcp) or the REST API (https://soundza.com/developers?utm_source=soundza-free-set&utm_medium=code).
+ * through the MCP server (https://mcp.soundza.com/mcp) or the REST API (https://soundza.com/developers?utm_source=soundza-free-set&utm_medium=code).
  * Remotion: npx skills add soundza/soundkit (an agent skill that places each sound on its frame)
  * Source: https://github.com/soundza/soundkit
  */
