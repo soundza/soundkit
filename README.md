@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://soundza.com/soundkit?utm_source=github&utm_medium=readme"><img src="assets/banner.png" alt="SoundKit: CC0 sound effects and music beds for Remotion and React, each with its hit point for frame-accurate sync" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://soundza.com/soundkit?utm_source=github&utm_medium=readme"><img alt="Browse and listen" src="https://img.shields.io/badge/browse-soundza.com%2Fsoundkit-4f46e5"></a>
+  <a href="https://ui.shadcn.com/docs/directory?q=soundza"><img alt="shadcn registry" src="https://img.shields.io/badge/shadcn-%40soundza-1a1816"></a>
+  <a href="LICENSE"><img alt="MIT licensed code" src="https://img.shields.io/badge/code-MIT-1a1816"></a>
+  <a href="LICENSE-AUDIO"><img alt="CC0 audio" src="https://img.shields.io/badge/audio-CC0-4f46e5"></a>
+  <img alt="Non-AI sounds" src="https://img.shields.io/badge/sounds-non--AI-1a1816">
+</p>
+
 # SoundKit
 
 Free video sound effects for [Remotion](https://www.remotion.dev) and React, in two parts:
@@ -6,6 +18,10 @@ Free video sound effects for [Remotion](https://www.remotion.dev) and React, in 
 2. **An agent skill** for Claude Code, Codex and Cursor that adds sound design to a Remotion video on its own: it finds the moments that need a sound, searches thousands more on [Soundza](https://soundza.com/?utm_source=soundza-soundkit&utm_medium=github), and places each one on its frame.
 
 Browse and listen: **[soundza.com/soundkit](https://soundza.com/soundkit)**
+
+**▶ [Watch the 11-second demo](assets/soundkit-demo.mp4)**: a Remotion promo where every whoosh, hit, pop and chime is a SoundKit sound placed on its frame ([source](examples/soundkit-promo)).
+
+Using a coding agent? Give it **[soundza.com/soundkit/agent-prompt.txt](https://soundza.com/soundkit/agent-prompt.txt)**: it picks sounds by name, installs them and places each hit on its frame.
 
 ## Add a sound
 
