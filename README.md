@@ -12,10 +12,10 @@
 
 # SoundKit
 
-Free video sound effects for [Remotion](https://www.remotion.dev) and React, in two parts:
+Free video sound effects for [Remotion](https://www.remotion.dev), [HyperFrames](https://github.com/heygen-com/hyperframes) and React, in two parts:
 
 1. **225 non-AI, CC0 sound effects and 25 non-AI, CC0 music beds** made for video (whooshes, transitions, hits, risers, logo stings, beds and the clicks of a product demo), added with one [shadcn](https://ui.shadcn.com) command. Each comes with its hit point, so a whoosh peaks on the cut and an impact lands on the title, on the exact frame.
-2. **An agent skill** for Claude Code, Codex and Cursor that adds sound design to a Remotion video on its own: it finds the moments that need a sound, searches thousands more on [Soundza](https://soundza.com/?utm_source=soundza-soundkit&utm_medium=github), and places each one on its frame.
+2. **Agent skills** for Claude Code, Codex and Cursor that add sound design to a Remotion or HyperFrames video on their own: it finds the moments that need a sound, searches thousands more on [Soundza](https://soundza.com/?utm_source=soundza-soundkit&utm_medium=github), and places each one on its frame.
 
 Browse and listen: **[soundza.com/soundkit](https://soundza.com/soundkit)**
 
@@ -99,6 +99,28 @@ curl -L --create-dirs -o public/sounds/casual-afternoon.mp3 https://soundza.com/
 <SoundzaMusicBed sound={casualAfternoon} volume={0.25} duckAt={[60]} />
 ```
 
+## In HyperFrames
+
+The [`soundza-hyperframes`](skills/soundza-hyperframes) skill adds sound design to a [HyperFrames](https://github.com/heygen-com/hyperframes) video. It starts with SoundKit (no key, CC0), searches the full Soundza library when SoundKit doesn't have the sound, and writes each `<audio>` element so the hit lands on its moment.
+
+```bash
+npx skills add soundza/soundkit --skill soundza-hyperframes
+```
+
+Then ask your agent to "add sound design to this video". Without an agent, the helper works on its own from the project's root:
+
+```bash
+node skills/soundza-hyperframes/scripts/soundza.mjs kit air-whoosh --name whoosh   # no key
+node skills/soundza-hyperframes/scripts/soundza.mjs place whoosh --at 3            # prints the <audio> element
+```
+
+```html
+<!-- Air Whoosh: hit at 3s -->
+<audio id="sfx-whoosh-3" src="assets/sounds/whoosh.wav" data-start="2.55" data-volume="0.6" data-track-index="4"></audio>
+```
+
+`place` starts the file early by its `sync_ms` (trimming the head with `data-media-start` if that would go before 0), and `bed` lays a music bed under the whole video with fades.
+
 ## Need more sounds? The agent skill
 
 Soundza has thousands more, searchable by description, including music beds and ambiences. The skill in [`skills/soundza-remotion`](skills/soundza-remotion) lets your agent use all of them.
@@ -114,7 +136,7 @@ The agent reads your compositions, lists every moment that should make a sound, 
 ### Install the skill
 
 ```bash
-npx skills add soundza/soundkit
+npx skills add soundza/soundkit --skill soundza-remotion
 ```
 
 Works with Claude Code, Codex, Cursor and any agent that reads [Agent Skills](https://agentskills.io). It pairs well with Remotion's own skills (`npx skills add remotion-dev/skills`).
@@ -171,12 +193,13 @@ Then copy [`templates/soundza.tsx`](skills/soundza-remotion/templates/soundza.ts
 ## How this repo works
 
 - `registry.json` and `registry/`: the SoundKit shadcn registry, served from `https://soundza.com/r/{name}.json`. `node scripts/sync.mjs` regenerates both from the live registry.
-- `skills/soundza-remotion/`: the agent skill.
+- `skills/soundza-remotion/`: the agent skill for Remotion.
+- `skills/soundza-hyperframes/`: the agent skill for HyperFrames.
 - `example/`: an 11-second promo made with the skill.
 
 ## License
 
-- Code (the components, helpers, skill and scripts): [MIT](LICENSE).
+- Code (the components, helpers, skills and scripts): [MIT](LICENSE).
 - SoundKit's 250 sounds (the audio in `registry/soundza/sounds/` and their downloads): [CC0 1.0](LICENSE-AUDIO). Use them for anything, no attribution needed.
 - Sounds the skill downloads from the wider Soundza library come under the [Soundza License](https://soundza.com/license): free for personal and commercial videos, no attribution needed.
 - Remotion has its own [license](https://remotion.dev/license) for companies.
