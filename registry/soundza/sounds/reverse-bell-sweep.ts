@@ -19,7 +19,7 @@ export const reverseBellSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reverse-bell-sweep.wav",
   page: "https://soundza.com/sound/bright-reverse-bell-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 846,
-  syncMs: 786,
+  syncMs: 710,
   loop: false,
   ai: false,
 };

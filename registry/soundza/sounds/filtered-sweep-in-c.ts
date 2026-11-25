@@ -19,7 +19,7 @@ export const filteredSweepInC: SoundzaAsset = {
   download: "https://soundza.com/soundkit/filtered-sweep-in-c.wav",
   page: "https://soundza.com/sound/filtered-sweep-in-c?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 6000,
-  syncMs: 2040,
+  syncMs: 1220,
   loop: false,
   ai: false,
 };

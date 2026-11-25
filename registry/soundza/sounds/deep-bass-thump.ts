@@ -19,7 +19,7 @@ export const deepBassThump: SoundzaAsset = {
   download: "https://soundza.com/soundkit/deep-bass-thump.wav",
   page: "https://soundza.com/sound/deep-bass-thump?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1578,
-  syncMs: 93,
+  syncMs: 50,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const levelUpSuccessFanfare: SoundzaAsset = {
   download: "https://soundza.com/soundkit/level-up-success-fanfare.wav",
   page: "https://soundza.com/sound/level-up-success-fanfare?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3431,
-  syncMs: 801,
+  syncMs: 18,
   loop: false,
   ai: false,
 };

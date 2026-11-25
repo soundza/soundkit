@@ -19,7 +19,7 @@ export const poppingSqueak: SoundzaAsset = {
   download: "https://soundza.com/soundkit/popping-squeak.wav",
   page: "https://soundza.com/sound/popping-squeak?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1832,
-  syncMs: 592,
+  syncMs: 8,
   loop: false,
   ai: false,
 };

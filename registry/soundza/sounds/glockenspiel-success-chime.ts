@@ -19,7 +19,7 @@ export const glockenspielSuccessChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glockenspiel-success-chime.wav",
   page: "https://soundza.com/sound/glockenspiel-success-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2534,
-  syncMs: 237,
+  syncMs: 20,
   loop: false,
   ai: false,
 };

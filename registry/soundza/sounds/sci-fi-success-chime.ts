@@ -19,7 +19,7 @@ export const sciFiSuccessChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sci-fi-success-chime.wav",
   page: "https://soundza.com/sound/sci-fi-success-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2273,
-  syncMs: 86,
+  syncMs: 50,
   loop: false,
   ai: false,
 };

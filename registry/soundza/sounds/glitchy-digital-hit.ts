@@ -19,7 +19,7 @@ export const glitchyDigitalHit: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glitchy-digital-hit.wav",
   page: "https://soundza.com/sound/glitchy-digital-hit?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1400,
-  syncMs: 92,
+  syncMs: 13,
   loop: false,
   ai: false,
 };

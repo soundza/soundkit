@@ -19,7 +19,7 @@ export const metalSkimmerWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/metal-skimmer-whoosh.wav",
   page: "https://soundza.com/sound/metal-skimmer-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1203,
-  syncMs: 391,
+  syncMs: 370,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const noiseRiserSoundFx: SoundzaAsset = {
   download: "https://soundza.com/soundkit/noise-riser-sound-fx.wav",
   page: "https://soundza.com/sound/noise-riser-sound-fx?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3047,
-  syncMs: 2748,
+  syncMs: 2470,
   loop: false,
   ai: false,
 };

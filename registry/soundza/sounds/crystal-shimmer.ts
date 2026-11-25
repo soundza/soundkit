@@ -19,7 +19,7 @@ export const crystalShimmer: SoundzaAsset = {
   download: "https://soundza.com/soundkit/crystal-shimmer.wav",
   page: "https://soundza.com/sound/crystal-shimmer?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3982,
-  syncMs: 191,
+  syncMs: 148,
   loop: false,
   ai: false,
 };

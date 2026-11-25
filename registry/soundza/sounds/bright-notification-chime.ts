@@ -19,7 +19,7 @@ export const brightNotificationChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bright-notification-chime.wav",
   page: "https://soundza.com/sound/bright-notification-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 689,
-  syncMs: 107,
+  syncMs: 15,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const lipPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/lip-pop.wav",
   page: "https://soundza.com/sound/lip-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 6653,
-  syncMs: 4226,
+  syncMs: 153,
   loop: false,
   ai: false,
 };

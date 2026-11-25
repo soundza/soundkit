@@ -19,7 +19,7 @@ export const sparkle1: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sparkle-1.wav",
   page: "https://soundza.com/sound/sparkle-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1304,
-  syncMs: 255,
+  syncMs: 35,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const sportsBuzzer: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sports-buzzer.wav",
   page: "https://soundza.com/sound/sports-buzzer?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3347,
-  syncMs: 844,
+  syncMs: 765,
   loop: false,
   ai: false,
 };

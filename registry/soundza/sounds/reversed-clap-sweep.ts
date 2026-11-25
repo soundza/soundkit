@@ -19,7 +19,7 @@ export const reversedClapSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reversed-clap-sweep.wav",
   page: "https://soundza.com/sound/reversed-clap-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1967,
-  syncMs: 703,
+  syncMs: 586,
   loop: false,
   ai: false,
 };

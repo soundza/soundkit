@@ -19,7 +19,7 @@ export const crowdClapping: SoundzaAsset = {
   download: "https://soundza.com/soundkit/crowd-clapping.wav",
   page: "https://soundza.com/sound/crowd-clapping-crisp?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5221,
-  syncMs: 896,
+  syncMs: 772,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const uiChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/ui-chime.wav",
   page: "https://soundza.com/sound/ui-sound-10?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1865,
-  syncMs: 100,
+  syncMs: 13,
   loop: false,
   ai: false,
 };

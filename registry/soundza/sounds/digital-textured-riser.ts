@@ -19,7 +19,7 @@ export const digitalTexturedRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/digital-textured-riser.wav",
   page: "https://soundza.com/sound/digital-textured-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5455,
-  syncMs: 4805,
+  syncMs: 4214,
   loop: false,
   ai: false,
 };

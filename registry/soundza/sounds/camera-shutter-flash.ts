@@ -19,7 +19,7 @@ export const cameraShutterFlash: SoundzaAsset = {
   download: "https://soundza.com/soundkit/camera-shutter-flash.wav",
   page: "https://soundza.com/sound/camera-shutter-and-flash?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3046,
-  syncMs: 1235,
+  syncMs: 967,
   loop: false,
   ai: false,
 };

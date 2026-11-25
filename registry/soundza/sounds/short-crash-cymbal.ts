@@ -19,7 +19,7 @@ export const shortCrashCymbal: SoundzaAsset = {
   download: "https://soundza.com/soundkit/short-crash-cymbal.wav",
   page: "https://soundza.com/sound/short-crash-cymbal?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1450,
-  syncMs: 82,
+  syncMs: 25,
   loop: false,
   ai: false,
 };

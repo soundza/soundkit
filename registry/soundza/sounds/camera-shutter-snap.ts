@@ -19,7 +19,7 @@ export const cameraShutterSnap: SoundzaAsset = {
   download: "https://soundza.com/soundkit/camera-shutter-snap.wav",
   page: "https://soundza.com/sound/camera-shutter-snap?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 540,
-  syncMs: 284,
+  syncMs: 112,
   loop: false,
   ai: false,
 };

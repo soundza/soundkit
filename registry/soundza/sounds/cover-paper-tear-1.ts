@@ -19,7 +19,7 @@ export const coverPaperTear1: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cover-paper-tear-1.wav",
   page: "https://soundza.com/sound/cover-paper-tear-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1262,
-  syncMs: 414,
+  syncMs: 281,
   loop: false,
   ai: false,
 };

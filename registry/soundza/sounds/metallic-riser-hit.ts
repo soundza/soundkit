@@ -19,7 +19,7 @@ export const metallicRiserHit: SoundzaAsset = {
   download: "https://soundza.com/soundkit/metallic-riser-hit.wav",
   page: "https://soundza.com/sound/metallic-riser-hit?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1925,
-  syncMs: 821,
+  syncMs: 799,
   loop: false,
   ai: false,
 };

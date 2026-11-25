@@ -19,7 +19,7 @@ export const metalHammerHit1: SoundzaAsset = {
   download: "https://soundza.com/soundkit/metal-hammer-hit-1.wav",
   page: "https://soundza.com/sound/metal-hammer-hit-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2035,
-  syncMs: 28,
+  syncMs: 11,
   loop: false,
   ai: false,
 };

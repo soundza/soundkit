@@ -19,7 +19,7 @@ export const countdownBeeper: SoundzaAsset = {
   download: "https://soundza.com/soundkit/countdown-beeper.wav",
   page: "https://soundza.com/sound/countdown-beeper?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5386,
-  syncMs: 260,
+  syncMs: 21,
   loop: false,
   ai: false,
 };

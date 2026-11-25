@@ -19,7 +19,7 @@ export const reverberantSynthBell: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reverberant-synth-bell.wav",
   page: "https://soundza.com/sound/reverberant-synth-bell?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 6862,
-  syncMs: 943,
+  syncMs: 20,
   loop: false,
   ai: false,
 };

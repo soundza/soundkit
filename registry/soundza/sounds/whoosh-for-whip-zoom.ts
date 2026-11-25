@@ -19,7 +19,7 @@ export const whooshForWhipZoom: SoundzaAsset = {
   download: "https://soundza.com/soundkit/whoosh-for-whip-zoom.wav",
   page: "https://soundza.com/sound/whoosh-for-whip-zoom?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2131,
-  syncMs: 1789,
+  syncMs: 51,
   loop: false,
   ai: false,
 };

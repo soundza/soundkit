@@ -19,7 +19,7 @@ export const cleanMouthPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/clean-mouth-pop.wav",
   page: "https://soundza.com/sound/clean-mouth-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 627,
-  syncMs: 184,
+  syncMs: 109,
   loop: false,
   ai: false,
 };

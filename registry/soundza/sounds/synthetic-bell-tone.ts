@@ -19,7 +19,7 @@ export const syntheticBellTone: SoundzaAsset = {
   download: "https://soundza.com/soundkit/synthetic-bell-tone.wav",
   page: "https://soundza.com/sound/synthetic-bell-tone?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 930,
-  syncMs: 135,
+  syncMs: 42,
   loop: false,
   ai: false,
 };

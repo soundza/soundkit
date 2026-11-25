@@ -19,7 +19,7 @@ export const brassFanfareStinger: SoundzaAsset = {
   download: "https://soundza.com/soundkit/brass-fanfare-stinger.wav",
   page: "https://soundza.com/sound/brass-fanfare-stinger?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5941,
-  syncMs: 697,
+  syncMs: 456,
   loop: false,
   ai: false,
 };

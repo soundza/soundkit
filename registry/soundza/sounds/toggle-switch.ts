@@ -19,7 +19,7 @@ export const toggleSwitch: SoundzaAsset = {
   download: "https://soundza.com/soundkit/toggle-switch.wav",
   page: "https://soundza.com/sound/switch-38?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 424,
-  syncMs: 41,
+  syncMs: 40,
   loop: false,
   ai: false,
 };

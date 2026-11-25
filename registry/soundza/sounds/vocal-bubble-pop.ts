@@ -19,7 +19,7 @@ export const vocalBubblePop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/vocal-bubble-pop.wav",
   page: "https://soundza.com/sound/vocal-bubble-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4207,
-  syncMs: 2044,
+  syncMs: 1642,
   loop: false,
   ai: false,
 };

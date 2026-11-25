@@ -19,7 +19,7 @@ export const bahDumTssSting: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bah-dum-tss-sting.wav",
   page: "https://soundza.com/sound/bah-dum-tss-sting?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2870,
-  syncMs: 298,
+  syncMs: 235,
   loop: false,
   ai: false,
 };

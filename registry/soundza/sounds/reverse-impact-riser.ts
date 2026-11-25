@@ -19,7 +19,7 @@ export const reverseImpactRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reverse-impact-riser.wav",
   page: "https://soundza.com/sound/high-reverse-impact-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1987,
-  syncMs: 1979,
+  syncMs: 1914,
   loop: false,
   ai: false,
 };

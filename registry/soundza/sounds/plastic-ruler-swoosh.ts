@@ -19,7 +19,7 @@ export const plasticRulerSwoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/plastic-ruler-swoosh.wav",
   page: "https://soundza.com/sound/plastic-ruler-swoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1959,
-  syncMs: 74,
+  syncMs: 39,
   loop: false,
   ai: false,
 };

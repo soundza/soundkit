@@ -19,7 +19,7 @@ export const plop2: SoundzaAsset = {
   download: "https://soundza.com/soundkit/plop-2.wav",
   page: "https://soundza.com/sound/plop-2?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 359,
-  syncMs: 110,
+  syncMs: 79,
   loop: false,
   ai: false,
 };

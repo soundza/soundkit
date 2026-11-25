@@ -19,7 +19,7 @@ export const vhsGlitch: SoundzaAsset = {
   download: "https://soundza.com/soundkit/vhs-glitch.wav",
   page: "https://soundza.com/sound/analog-glitch-from-vhs?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1206,
-  syncMs: 66,
+  syncMs: 15,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const bambooSwingTransition: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bamboo-swing-transition.wav",
   page: "https://soundza.com/sound/bamboo-swing-transition-effect?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 426,
-  syncMs: 84,
+  syncMs: 51,
   loop: false,
   ai: false,
 };

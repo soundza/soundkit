@@ -19,7 +19,7 @@ export const lightSwitchClickOff: SoundzaAsset = {
   download: "https://soundza.com/soundkit/light-switch-click-off.wav",
   page: "https://soundza.com/sound/light-switch-click-off?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 361,
-  syncMs: 139,
+  syncMs: 9,
   loop: false,
   ai: false,
 };

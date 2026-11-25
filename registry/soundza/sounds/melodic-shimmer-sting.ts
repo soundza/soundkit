@@ -19,7 +19,7 @@ export const melodicShimmerSting: SoundzaAsset = {
   download: "https://soundza.com/soundkit/melodic-shimmer-sting.wav",
   page: "https://soundza.com/sound/melodic-shimmer-sting?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4284,
-  syncMs: 707,
+  syncMs: 18,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const bellChimeSynth: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bell-chime-synth.wav",
   page: "https://soundza.com/sound/bell-chime-synth?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 667,
-  syncMs: 145,
+  syncMs: 6,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const standardMouseClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/standard-mouse-click.wav",
   page: "https://soundza.com/sound/standard-mouse-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1254,
-  syncMs: 494,
+  syncMs: 11,
   loop: false,
   ai: false,
 };

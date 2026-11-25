@@ -19,7 +19,7 @@ export const spaceSwoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/space-swoosh.wav",
   page: "https://soundza.com/sound/space-swoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1013,
-  syncMs: 315,
+  syncMs: 302,
   loop: false,
   ai: false,
 };

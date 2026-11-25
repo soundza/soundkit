@@ -19,7 +19,7 @@ export const cinematicTensionRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cinematic-tension-riser.wav",
   page: "https://soundza.com/sound/cinematic-tension-riser-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3833,
-  syncMs: 727,
+  syncMs: 511,
   loop: false,
   ai: false,
 };

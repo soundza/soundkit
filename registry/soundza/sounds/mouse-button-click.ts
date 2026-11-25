@@ -19,7 +19,7 @@ export const mouseButtonClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/mouse-button-click.wav",
   page: "https://soundza.com/sound/mouse-button-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 311,
-  syncMs: 195,
+  syncMs: 37,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const glassyReverseSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glassy-reverse-sweep.wav",
   page: "https://soundza.com/sound/glassy-reverse-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 751,
-  syncMs: 685,
+  syncMs: 453,
   loop: false,
   ai: false,
 };

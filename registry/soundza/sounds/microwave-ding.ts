@@ -19,7 +19,7 @@ export const microwaveDing: SoundzaAsset = {
   download: "https://soundza.com/soundkit/microwave-ding.wav",
   page: "https://soundza.com/sound/microwave-ding?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2929,
-  syncMs: 1548,
+  syncMs: 1514,
   loop: false,
   ai: false,
 };

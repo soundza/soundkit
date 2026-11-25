@@ -19,7 +19,7 @@ export const superSlowWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/super-slow-whoosh.wav",
   page: "https://soundza.com/sound/super-slow-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 934,
-  syncMs: 72,
+  syncMs: 58,
   loop: false,
   ai: false,
 };

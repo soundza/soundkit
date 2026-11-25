@@ -19,7 +19,7 @@ export const magicalSparkleShimmer: SoundzaAsset = {
   download: "https://soundza.com/soundkit/magical-sparkle-shimmer.wav",
   page: "https://soundza.com/sound/magical-sparkle-shimmer?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 6462,
-  syncMs: 839,
+  syncMs: 800,
   loop: false,
   ai: false,
 };

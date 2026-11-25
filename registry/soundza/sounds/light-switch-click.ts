@@ -19,7 +19,7 @@ export const lightSwitchClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/light-switch-click.wav",
   page: "https://soundza.com/sound/light-switch-click-2?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 520,
-  syncMs: 53,
+  syncMs: 39,
   loop: false,
   ai: false,
 };

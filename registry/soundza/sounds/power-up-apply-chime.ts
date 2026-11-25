@@ -19,7 +19,7 @@ export const powerUpApplyChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/power-up-apply-chime.wav",
   page: "https://soundza.com/sound/power-up-apply-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1108,
-  syncMs: 152,
+  syncMs: 15,
   loop: false,
   ai: false,
 };

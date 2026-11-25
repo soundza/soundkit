@@ -19,7 +19,7 @@ export const moneyBagJingle: SoundzaAsset = {
   download: "https://soundza.com/soundkit/money-bag-jingle.wav",
   page: "https://soundza.com/sound/money-bag-jingle?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1719,
-  syncMs: 511,
+  syncMs: 231,
   loop: false,
   ai: false,
 };

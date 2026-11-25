@@ -19,7 +19,7 @@ export const bubble1: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bubble-1.wav",
   page: "https://soundza.com/sound/bubble-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 456,
-  syncMs: 98,
+  syncMs: 61,
   loop: false,
   ai: false,
 };

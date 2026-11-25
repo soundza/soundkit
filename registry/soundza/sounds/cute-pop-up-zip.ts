@@ -19,7 +19,7 @@ export const cutePopUpZip: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cute-pop-up-zip.wav",
   page: "https://soundza.com/sound/cute-pop-up-zip?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1595,
-  syncMs: 414,
+  syncMs: 29,
   loop: false,
   ai: false,
 };

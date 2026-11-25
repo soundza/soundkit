@@ -19,7 +19,7 @@ export const fastMetalWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/fast-metal-whoosh.wav",
   page: "https://soundza.com/sound/fast-metal-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 326,
-  syncMs: 133,
+  syncMs: 109,
   loop: false,
   ai: false,
 };

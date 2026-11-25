@@ -19,7 +19,7 @@ export const retroMenuClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/retro-menu-click.wav",
   page: "https://soundza.com/sound/retro-menu-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 403,
-  syncMs: 64,
+  syncMs: 30,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const cinematicSubDrop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cinematic-sub-drop.wav",
   page: "https://soundza.com/sound/cinematic-sub-drop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 6000,
-  syncMs: 772,
+  syncMs: 15,
   loop: false,
   ai: false,
 };

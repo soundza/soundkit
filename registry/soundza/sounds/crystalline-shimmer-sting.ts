@@ -19,7 +19,7 @@ export const crystallineShimmerSting: SoundzaAsset = {
   download: "https://soundza.com/soundkit/crystalline-shimmer-sting.wav",
   page: "https://soundza.com/sound/crystalline-shimmer-sting?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2168,
-  syncMs: 89,
+  syncMs: 17,
   loop: false,
   ai: false,
 };

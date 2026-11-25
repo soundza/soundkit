@@ -19,7 +19,7 @@ export const epicDescendingRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/epic-descending-riser.wav",
   page: "https://soundza.com/sound/epic-descending-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4430,
-  syncMs: 611,
+  syncMs: 520,
   loop: false,
   ai: false,
 };

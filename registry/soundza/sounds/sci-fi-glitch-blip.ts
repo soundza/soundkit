@@ -19,7 +19,7 @@ export const sciFiGlitchBlip: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sci-fi-glitch-blip.wav",
   page: "https://soundza.com/sound/sci-fi-glitch-blip?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 531,
-  syncMs: 233,
+  syncMs: 203,
   loop: false,
   ai: false,
 };

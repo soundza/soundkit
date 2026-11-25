@@ -19,7 +19,7 @@ export const bambooSwoosh3: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bamboo-swoosh-3.wav",
   page: "https://soundza.com/sound/bamboo-swoosh-3?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 576,
-  syncMs: 72,
+  syncMs: 71,
   loop: false,
   ai: false,
 };

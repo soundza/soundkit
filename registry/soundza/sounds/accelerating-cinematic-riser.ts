@@ -19,7 +19,7 @@ export const acceleratingCinematicRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/accelerating-cinematic-riser.wav",
   page: "https://soundza.com/sound/accelerating-cinematic-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2162,
-  syncMs: 1057,
+  syncMs: 1002,
   loop: false,
   ai: false,
 };

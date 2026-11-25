@@ -19,7 +19,7 @@ export const muffledSubDrop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/muffled-sub-drop.wav",
   page: "https://soundza.com/sound/muffled-sub-drop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3239,
-  syncMs: 266,
+  syncMs: 105,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const echoedPitchBendSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/echoed-pitch-bend-sweep.wav",
   page: "https://soundza.com/sound/echoed-pitch-bend-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1440,
-  syncMs: 239,
+  syncMs: 23,
   loop: false,
   ai: false,
 };

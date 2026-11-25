@@ -19,7 +19,7 @@ export const crispMouthPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/crisp-mouth-pop.wav",
   page: "https://soundza.com/sound/crisp-mouth-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 287,
-  syncMs: 95,
+  syncMs: 12,
   loop: false,
   ai: false,
 };

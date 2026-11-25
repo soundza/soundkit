@@ -19,7 +19,7 @@ export const vibraphoneSting: SoundzaAsset = {
   download: "https://soundza.com/soundkit/vibraphone-sting.wav",
   page: "https://soundza.com/sound/vibraphone-sting?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5721,
-  syncMs: 174,
+  syncMs: 70,
   loop: false,
   ai: false,
 };

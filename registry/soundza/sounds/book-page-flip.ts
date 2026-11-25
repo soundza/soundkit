@@ -19,7 +19,7 @@ export const bookPageFlip: SoundzaAsset = {
   download: "https://soundza.com/soundkit/book-page-flip.wav",
   page: "https://soundza.com/sound/book-page-flip-3?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1215,
-  syncMs: 665,
+  syncMs: 632,
   loop: false,
   ai: false,
 };

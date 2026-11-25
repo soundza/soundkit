@@ -19,7 +19,7 @@ export const strongCymbalRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/strong-cymbal-riser.wav",
   page: "https://soundza.com/sound/strong-cymbal-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3158,
-  syncMs: 3022,
+  syncMs: 2504,
   loop: false,
   ai: false,
 };
