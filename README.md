@@ -17,7 +17,7 @@ Free video sound effects for [Remotion](https://www.remotion.dev) and React, in 
 1. **225 non-AI, CC0 sound effects and 25 non-AI, CC0 music beds** made for video (whooshes, transitions, hits, risers, logo stings, beds and the clicks of a product demo), added with one [shadcn](https://ui.shadcn.com) command. Each comes with its hit point, so a whoosh peaks on the cut and an impact lands on the title, on the exact frame.
 2. **An agent skill** for Claude Code, Codex and Cursor that adds sound design to a Remotion video on its own: it finds the moments that need a sound, searches thousands more on [Soundza](https://soundza.com/?utm_source=soundza-soundkit&utm_medium=github), and places each one on its frame.
 
-Browse and listen: **[soundza.com/soundkit](https://soundza.com/soundkit)**
+Browse and listen: **[soundza.com/soundkit](https://soundza.com/soundkit)**. Building an app? **[SoundKit UI](https://soundza.com/soundkit/ui)** has 200 UI sounds ([below](#soundkit-ui-sounds-for-apps)).
 
 **▶ [Watch the 11-second demo](assets/soundkit-demo.mp4)**: a Remotion promo where every whoosh, hit, pop and chime is a SoundKit sound placed on its frame ([source](examples/soundkit-promo)).
 
@@ -56,6 +56,16 @@ import { airWhoosh } from "@/sounds/air-whoosh";
 ```
 
 `<SoundzaSound>` starts the file early by its `syncMs`, so the hit lands on `at`. `<SoundzaMusicBed>` loops, fades and ducks a music bed under the hits.
+
+## SoundKit UI: sounds for apps
+
+Building an app instead of a video? **[SoundKit UI](https://soundza.com/soundkit/ui)** is 200 non-AI, CC0 sound effects for interfaces: clicks, toggles, notifications, pops and typing. Add all of them with one command:
+
+```bash
+npx shadcn add https://soundza.com/r/ui-sounds.json
+```
+
+Each sound lands as its own small file in `sounds/`, ready to play with `playSound()`. Or add a few by name, like `npx shadcn add https://soundza.com/r/switch-1.json`. There's a live demo at the top of [the page](https://soundza.com/soundkit/ui) where you can click the controls and hear them.
 
 ## The sounds
 
@@ -178,5 +188,6 @@ Then copy [`templates/soundza.tsx`](skills/soundza-remotion/templates/soundza.ts
 
 - Code (the components, helpers, skill and scripts): [MIT](LICENSE).
 - SoundKit's 250 sounds (the audio in `registry/soundza/sounds/` and their downloads): [CC0 1.0](LICENSE-AUDIO). Use them for anything, no attribution needed.
+- SoundKit UI's 200 sounds (served from soundza.com): CC0 1.0 too.
 - Sounds the skill downloads from the wider Soundza library come under the [Soundza License](https://soundza.com/license): free for personal and commercial videos, no attribution needed.
 - Remotion has its own [license](https://remotion.dev/license) for companies.
