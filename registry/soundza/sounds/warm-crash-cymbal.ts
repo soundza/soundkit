@@ -19,7 +19,7 @@ export const warmCrashCymbal: SoundzaAsset = {
   download: "https://soundza.com/soundkit/warm-crash-cymbal.wav",
   page: "https://soundza.com/sound/warm-crash-cymbal?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2838,
-  syncMs: 14,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

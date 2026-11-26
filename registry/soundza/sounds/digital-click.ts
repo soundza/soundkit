@@ -19,7 +19,7 @@ export const digitalClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/digital-click.wav",
   page: "https://soundza.com/sound/digital-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 216,
-  syncMs: 23,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

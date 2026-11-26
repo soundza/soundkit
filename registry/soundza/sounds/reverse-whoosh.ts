@@ -19,7 +19,7 @@ export const reverseWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reverse-whoosh.wav",
   page: "https://soundza.com/sound/reverse-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2000,
-  syncMs: 491,
+  syncMs: 358,
   loop: false,
   ai: false,
 };

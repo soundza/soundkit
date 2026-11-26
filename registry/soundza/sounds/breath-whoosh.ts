@@ -19,7 +19,7 @@ export const breathWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/breath-whoosh.wav",
   page: "https://soundza.com/sound/breath-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3249,
-  syncMs: 807,
+  syncMs: 674,
   loop: false,
   ai: false,
 };

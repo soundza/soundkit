@@ -19,7 +19,7 @@ export const organicNoiseRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/organic-noise-riser.wav",
   page: "https://soundza.com/sound/organic-noise-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3750,
-  syncMs: 3243,
+  syncMs: 3110,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const digitalZap: SoundzaAsset = {
   download: "https://soundza.com/soundkit/digital-zap.wav",
   page: "https://soundza.com/sound/digital-zap?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1723,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

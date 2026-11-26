@@ -19,7 +19,7 @@ export const computerErrorBeep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/computer-error-beep.wav",
   page: "https://soundza.com/sound/computer-error-beep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 310,
-  syncMs: 29,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

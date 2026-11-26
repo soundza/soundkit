@@ -19,7 +19,7 @@ export const explosiveImpactWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/explosive-impact-whoosh.wav",
   page: "https://soundza.com/sound/explosive-impact-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2561,
-  syncMs: 177,
+  syncMs: 44,
   loop: false,
   ai: false,
 };

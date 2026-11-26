@@ -19,7 +19,7 @@ export const mouthSwooshSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/mouth-swoosh-sweep.wav",
   page: "https://soundza.com/sound/mouth-swoosh-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2684,
-  syncMs: 1028,
+  syncMs: 895,
   loop: false,
   ai: false,
 };

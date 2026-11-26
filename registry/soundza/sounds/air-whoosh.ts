@@ -19,7 +19,7 @@ export const airWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/air-whoosh.wav",
   page: "https://soundza.com/sound/air-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 757,
-  syncMs: 204,
+  syncMs: 71,
   loop: false,
   ai: false,
 };

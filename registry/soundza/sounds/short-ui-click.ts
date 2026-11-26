@@ -19,7 +19,7 @@ export const shortUiClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/short-ui-click.wav",
   page: "https://soundza.com/sound/short-ui-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 161,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

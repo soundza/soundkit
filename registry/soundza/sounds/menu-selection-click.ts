@@ -19,7 +19,7 @@ export const menuSelectionClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/menu-selection-click.wav",
   page: "https://soundza.com/sound/menu-selection-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 228,
-  syncMs: 14,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

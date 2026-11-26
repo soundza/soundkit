@@ -19,7 +19,7 @@ export const cinematicBraam: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cinematic-braam.wav",
   page: "https://soundza.com/sound/fast-cinematic-braam-hit?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2299,
-  syncMs: 373,
+  syncMs: 240,
   loop: false,
   ai: false,
 };

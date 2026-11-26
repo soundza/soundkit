@@ -19,7 +19,7 @@ export const cameraFlashClicks: SoundzaAsset = {
   download: "https://soundza.com/soundkit/camera-flash-clicks.wav",
   page: "https://soundza.com/sound/camera-flash-clicks?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5500,
-  syncMs: 414,
+  syncMs: 281,
   loop: false,
   ai: false,
 };

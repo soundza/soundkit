@@ -19,7 +19,7 @@ export const lofiReverseRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/lofi-reverse-riser.wav",
   page: "https://soundza.com/sound/lo-fi-reverse-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2317,
-  syncMs: 2237,
+  syncMs: 2104,
   loop: false,
   ai: false,
 };

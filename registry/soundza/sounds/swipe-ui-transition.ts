@@ -19,7 +19,7 @@ export const swipeUiTransition: SoundzaAsset = {
   download: "https://soundza.com/soundkit/swipe-ui-transition.wav",
   page: "https://soundza.com/sound/swipe-ui-transition?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 880,
-  syncMs: 141,
+  syncMs: 8,
   loop: false,
   ai: false,
 };

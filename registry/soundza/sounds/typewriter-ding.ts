@@ -19,7 +19,7 @@ export const typewriterDing: SoundzaAsset = {
   download: "https://soundza.com/soundkit/typewriter-ding.wav",
   page: "https://soundza.com/sound/typewriter-ding?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1056,
-  syncMs: 36,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

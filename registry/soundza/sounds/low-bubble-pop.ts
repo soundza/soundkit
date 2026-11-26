@@ -19,7 +19,7 @@ export const lowBubblePop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/low-bubble-pop.wav",
   page: "https://soundza.com/sound/low-bubble-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 174,
-  syncMs: 76,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

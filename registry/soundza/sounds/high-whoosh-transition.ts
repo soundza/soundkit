@@ -19,7 +19,7 @@ export const highWhooshTransition: SoundzaAsset = {
   download: "https://soundza.com/soundkit/high-whoosh-transition.wav",
   page: "https://soundza.com/sound/high-whoosh-transition?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2344,
-  syncMs: 149,
+  syncMs: 16,
   loop: false,
   ai: false,
 };

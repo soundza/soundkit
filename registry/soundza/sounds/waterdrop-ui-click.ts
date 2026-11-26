@@ -19,7 +19,7 @@ export const waterdropUiClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/waterdrop-ui-click.wav",
   page: "https://soundza.com/sound/waterdrop-ui-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 581,
-  syncMs: 100,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

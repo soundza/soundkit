@@ -19,7 +19,7 @@ export const stutteringGlitch: SoundzaAsset = {
   download: "https://soundza.com/soundkit/stuttering-glitch.wav",
   page: "https://soundza.com/sound/stuttering-glitch-noise?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1755,
-  syncMs: 143,
+  syncMs: 10,
   loop: false,
   ai: false,
 };

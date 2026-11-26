@@ -19,7 +19,7 @@ export const punchSwish: SoundzaAsset = {
   download: "https://soundza.com/soundkit/punch-swish.wav",
   page: "https://soundza.com/sound/crisp-punch-swish?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 268,
-  syncMs: 50,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

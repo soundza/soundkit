@@ -19,7 +19,7 @@ export const glassyShimmer: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glassy-shimmer.wav",
   page: "https://soundza.com/sound/glassy-shimmer?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1954,
-  syncMs: 16,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

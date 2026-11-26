@@ -19,7 +19,7 @@ export const upliftingSuccessStinger: SoundzaAsset = {
   download: "https://soundza.com/soundkit/uplifting-success-stinger.wav",
   page: "https://soundza.com/sound/uplifting-success-stinger?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3297,
-  syncMs: 21,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

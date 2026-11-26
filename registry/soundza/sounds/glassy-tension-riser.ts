@@ -19,7 +19,7 @@ export const glassyTensionRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glassy-tension-riser.wav",
   page: "https://soundza.com/sound/glassy-tension-riser-in-d?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2661,
-  syncMs: 1817,
+  syncMs: 1684,
   loop: false,
   ai: false,
 };

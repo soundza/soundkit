@@ -19,7 +19,7 @@ export const distantBassBoom: SoundzaAsset = {
   download: "https://soundza.com/soundkit/distant-bass-boom.wav",
   page: "https://soundza.com/sound/distant-bass-boom?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3320,
-  syncMs: 44,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

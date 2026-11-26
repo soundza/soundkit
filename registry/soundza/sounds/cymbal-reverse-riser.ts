@@ -19,7 +19,7 @@ export const cymbalReverseRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cymbal-reverse-riser.wav",
   page: "https://soundza.com/sound/cymbal-reverse-riser-fx?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2902,
-  syncMs: 2872,
+  syncMs: 2739,
   loop: false,
   ai: false,
 };

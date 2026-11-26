@@ -19,7 +19,7 @@ export const successBeep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/success-beep.wav",
   page: "https://soundza.com/sound/success-beep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 657,
-  syncMs: 192,
+  syncMs: 59,
   loop: false,
   ai: false,
 };

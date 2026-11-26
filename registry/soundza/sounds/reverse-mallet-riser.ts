@@ -19,7 +19,7 @@ export const reverseMalletRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reverse-mallet-riser.wav",
   page: "https://soundza.com/sound/reverse-mallet-riser-c3?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2972,
-  syncMs: 2912,
+  syncMs: 2779,
   loop: false,
   ai: false,
 };

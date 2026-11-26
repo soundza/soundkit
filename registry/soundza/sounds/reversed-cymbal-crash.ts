@@ -19,7 +19,7 @@ export const reversedCymbalCrash: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reversed-cymbal-crash.wav",
   page: "https://soundza.com/sound/reversed-cymbal-crash-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4672,
-  syncMs: 4669,
+  syncMs: 4536,
   loop: false,
   ai: false,
 };

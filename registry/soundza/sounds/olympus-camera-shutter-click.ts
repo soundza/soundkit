@@ -19,7 +19,7 @@ export const olympusCameraShutterClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/olympus-camera-shutter-click.wav",
   page: "https://soundza.com/sound/olympus-camera-shutter-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1562,
-  syncMs: 636,
+  syncMs: 503,
   loop: false,
   ai: false,
 };

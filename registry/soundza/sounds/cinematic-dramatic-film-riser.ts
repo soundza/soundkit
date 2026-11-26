@@ -19,7 +19,7 @@ export const cinematicDramaticFilmRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cinematic-dramatic-film-riser.wav",
   page: "https://soundza.com/sound/cinematic-dramatic-film-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3000,
-  syncMs: 2032,
+  syncMs: 1899,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const cashRegisterClosing: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cash-register-closing.wav",
   page: "https://soundza.com/sound/cash-register-closing?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1884,
-  syncMs: 999,
+  syncMs: 866,
   loop: false,
   ai: false,
 };

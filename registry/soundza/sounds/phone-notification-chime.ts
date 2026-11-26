@@ -19,7 +19,7 @@ export const phoneNotificationChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/phone-notification-chime.wav",
   page: "https://soundza.com/sound/phone-notification-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1907,
-  syncMs: 18,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

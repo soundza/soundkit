@@ -19,7 +19,7 @@ export const funkyMorphSwoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/funky-morph-swoosh.wav",
   page: "https://soundza.com/sound/funky-morph-swoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2319,
-  syncMs: 1104,
+  syncMs: 971,
   loop: false,
   ai: false,
 };

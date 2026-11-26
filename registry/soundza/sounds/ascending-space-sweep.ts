@@ -19,7 +19,7 @@ export const ascendingSpaceSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/ascending-space-sweep.wav",
   page: "https://soundza.com/sound/ascending-space-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4576,
-  syncMs: 778,
+  syncMs: 645,
   loop: false,
   ai: false,
 };

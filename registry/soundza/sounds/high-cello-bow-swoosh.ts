@@ -19,7 +19,7 @@ export const highCelloBowSwoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/high-cello-bow-swoosh.wav",
   page: "https://soundza.com/sound/high-cello-bow-swoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 500,
-  syncMs: 37,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

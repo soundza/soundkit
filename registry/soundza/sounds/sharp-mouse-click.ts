@@ -19,7 +19,7 @@ export const sharpMouseClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sharp-mouse-click.wav",
   page: "https://soundza.com/sound/sharp-mouse-click?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 264,
-  syncMs: 13,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

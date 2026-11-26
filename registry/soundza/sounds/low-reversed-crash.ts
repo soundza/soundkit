@@ -19,7 +19,7 @@ export const lowReversedCrash: SoundzaAsset = {
   download: "https://soundza.com/soundkit/low-reversed-crash.wav",
   page: "https://soundza.com/sound/low-reversed-crash-cymbal?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2687,
-  syncMs: 2527,
+  syncMs: 2394,
   loop: false,
   ai: false,
 };

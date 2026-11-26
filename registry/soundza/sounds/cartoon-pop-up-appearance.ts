@@ -19,7 +19,7 @@ export const cartoonPopUpAppearance: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cartoon-pop-up-appearance.wav",
   page: "https://soundza.com/sound/cartoon-pop-up-appearance?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1485,
-  syncMs: 26,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

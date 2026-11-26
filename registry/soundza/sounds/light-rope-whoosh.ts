@@ -19,7 +19,7 @@ export const lightRopeWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/light-rope-whoosh.wav",
   page: "https://soundza.com/sound/light-rope-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 429,
-  syncMs: 125,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

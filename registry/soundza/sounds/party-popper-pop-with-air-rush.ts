@@ -19,7 +19,7 @@ export const partyPopperPopWithAirRush: SoundzaAsset = {
   download: "https://soundza.com/soundkit/party-popper-pop-with-air-rush.wav",
   page: "https://soundza.com/sound/party-popper-pop-with-air-rush?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 610,
-  syncMs: 90,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

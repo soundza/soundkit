@@ -19,7 +19,7 @@ export const cartoonWinkSparkle: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cartoon-wink-sparkle.wav",
   page: "https://soundza.com/sound/cartoon-wink-magic-sparkle?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1271,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

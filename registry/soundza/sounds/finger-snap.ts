@@ -19,7 +19,7 @@ export const fingerSnap: SoundzaAsset = {
   download: "https://soundza.com/soundkit/finger-snap.wav",
   page: "https://soundza.com/sound/clean-finger-snap?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 318,
-  syncMs: 93,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

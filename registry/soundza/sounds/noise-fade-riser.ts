@@ -19,7 +19,7 @@ export const noiseFadeRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/noise-fade-riser.wav",
   page: "https://soundza.com/sound/noise-fade-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3998,
-  syncMs: 3421,
+  syncMs: 3288,
   loop: false,
   ai: false,
 };

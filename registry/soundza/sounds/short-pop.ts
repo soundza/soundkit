@@ -19,7 +19,7 @@ export const shortPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/short-pop.wav",
   page: "https://soundza.com/sound/pop-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 303,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

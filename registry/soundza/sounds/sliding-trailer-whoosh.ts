@@ -19,7 +19,7 @@ export const slidingTrailerWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sliding-trailer-whoosh.wav",
   page: "https://soundza.com/sound/sliding-trailer-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1627,
-  syncMs: 539,
+  syncMs: 406,
   loop: false,
   ai: false,
 };

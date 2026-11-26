@@ -19,7 +19,7 @@ export const brightBellChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bright-bell-chime.wav",
   page: "https://soundza.com/sound/bright-bell-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2519,
-  syncMs: 27,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

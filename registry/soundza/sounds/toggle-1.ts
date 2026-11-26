@@ -19,7 +19,7 @@ export const toggle1: SoundzaAsset = {
   download: "https://soundza.com/soundkit/toggle-1.wav",
   page: "https://soundza.com/sound/toggle-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 136,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const metallicGrateHit: SoundzaAsset = {
   download: "https://soundza.com/soundkit/metallic-grate-hit.wav",
   page: "https://soundza.com/sound/metallic-grate-hit?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3246,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

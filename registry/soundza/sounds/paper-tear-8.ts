@@ -19,7 +19,7 @@ export const paperTear8: SoundzaAsset = {
   download: "https://soundza.com/soundkit/paper-tear-8.wav",
   page: "https://soundza.com/sound/paper-tear-8?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 511,
-  syncMs: 113,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

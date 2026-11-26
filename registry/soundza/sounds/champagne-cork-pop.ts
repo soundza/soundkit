@@ -19,7 +19,7 @@ export const champagneCorkPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/champagne-cork-pop.wav",
   page: "https://soundza.com/sound/champagne-cork-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 667,
-  syncMs: 14,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

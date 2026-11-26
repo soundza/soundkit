@@ -19,7 +19,7 @@ export const twoToneHintChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/two-tone-hint-chime.wav",
   page: "https://soundza.com/sound/two-tone-hint-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 265,
-  syncMs: 5,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

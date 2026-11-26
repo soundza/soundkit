@@ -19,7 +19,7 @@ export const sparklingStarShimmer: SoundzaAsset = {
   download: "https://soundza.com/soundkit/sparkling-star-shimmer.wav",
   page: "https://soundza.com/sound/sparkling-star-shimmer-2?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3540,
-  syncMs: 15,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

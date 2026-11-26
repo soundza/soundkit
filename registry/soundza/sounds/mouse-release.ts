@@ -19,7 +19,7 @@ export const mouseRelease: SoundzaAsset = {
   download: "https://soundza.com/soundkit/mouse-release.wav",
   page: "https://soundza.com/sound/mouse-release?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 69,
-  syncMs: 27,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

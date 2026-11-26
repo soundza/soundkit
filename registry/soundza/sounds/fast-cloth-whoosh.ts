@@ -19,7 +19,7 @@ export const fastClothWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/fast-cloth-whoosh.wav",
   page: "https://soundza.com/sound/fast-cloth-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 549,
-  syncMs: 66,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

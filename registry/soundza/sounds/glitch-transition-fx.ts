@@ -19,7 +19,7 @@ export const glitchTransitionFx: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glitch-transition-fx.wav",
   page: "https://soundza.com/sound/glitch-transition-fx?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 520,
-  syncMs: 243,
+  syncMs: 110,
   loop: false,
   ai: false,
 };

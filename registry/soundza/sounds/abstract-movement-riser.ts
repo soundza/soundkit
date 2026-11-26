@@ -19,7 +19,7 @@ export const abstractMovementRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/abstract-movement-riser.wav",
   page: "https://soundza.com/sound/abstract-movement-riser-fx?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2000,
-  syncMs: 1861,
+  syncMs: 1728,
   loop: false,
   ai: false,
 };

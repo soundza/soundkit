@@ -19,7 +19,7 @@ export const shimmeringHarpArpeggio: SoundzaAsset = {
   download: "https://soundza.com/soundkit/shimmering-harp-arpeggio.wav",
   page: "https://soundza.com/sound/shimmering-harp-arpeggio?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3840,
-  syncMs: 26,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

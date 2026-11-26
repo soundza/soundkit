@@ -19,7 +19,7 @@ export const achievementSparkle: SoundzaAsset = {
   download: "https://soundza.com/soundkit/achievement-sparkle.wav",
   page: "https://soundza.com/sound/achievement-sparkle?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1759,
-  syncMs: 281,
+  syncMs: 148,
   loop: false,
   ai: false,
 };

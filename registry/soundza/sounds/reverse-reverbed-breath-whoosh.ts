@@ -19,7 +19,7 @@ export const reverseReverbedBreathWhoosh: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reverse-reverbed-breath-whoosh.wav",
   page: "https://soundza.com/sound/reverse-reverbed-breath-whoosh?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2367,
-  syncMs: 1423,
+  syncMs: 1290,
   loop: false,
   ai: false,
 };

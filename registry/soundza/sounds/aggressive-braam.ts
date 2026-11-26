@@ -19,7 +19,7 @@ export const aggressiveBraam: SoundzaAsset = {
   download: "https://soundza.com/soundkit/aggressive-braam.wav",
   page: "https://soundza.com/sound/aggressive-braam-hit?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2299,
-  syncMs: 315,
+  syncMs: 182,
   loop: false,
   ai: false,
 };

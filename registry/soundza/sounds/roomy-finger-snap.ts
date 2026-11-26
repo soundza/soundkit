@@ -19,7 +19,7 @@ export const roomyFingerSnap: SoundzaAsset = {
   download: "https://soundza.com/soundkit/roomy-finger-snap.wav",
   page: "https://soundza.com/sound/roomy-finger-snap?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1207,
-  syncMs: 59,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

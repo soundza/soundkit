@@ -19,7 +19,7 @@ export const mechanicalKeyboardKeystroke: SoundzaAsset = {
   download: "https://soundza.com/soundkit/mechanical-keyboard-keystroke.wav",
   page: "https://soundza.com/sound/mechanical-keyboard-keystroke?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 400,
-  syncMs: 16,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

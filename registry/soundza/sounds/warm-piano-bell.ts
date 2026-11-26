@@ -19,7 +19,7 @@ export const warmPianoBell: SoundzaAsset = {
   download: "https://soundza.com/soundkit/warm-piano-bell.wav",
   page: "https://soundza.com/sound/warm-piano-bell?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3901,
-  syncMs: 15,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

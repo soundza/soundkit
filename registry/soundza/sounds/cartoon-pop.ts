@@ -19,7 +19,7 @@ export const cartoonPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cartoon-pop.wav",
   page: "https://soundza.com/sound/cartoon-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3086,
-  syncMs: 67,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const glassDing: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glass-ding.wav",
   page: "https://soundza.com/sound/glass-ding?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 550,
-  syncMs: 12,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const fantasyUiChime: SoundzaAsset = {
   download: "https://soundza.com/soundkit/fantasy-ui-chime.wav",
   page: "https://soundza.com/sound/fantasy-ui-chime?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1352,
-  syncMs: 208,
+  syncMs: 75,
   loop: false,
   ai: false,
 };

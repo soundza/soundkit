@@ -19,7 +19,7 @@ export const filteredSciFiRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/filtered-sci-fi-riser.wav",
   page: "https://soundza.com/sound/filtered-sci-fi-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3333,
-  syncMs: 1208,
+  syncMs: 1075,
   loop: false,
   ai: false,
 };

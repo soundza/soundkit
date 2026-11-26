@@ -19,7 +19,7 @@ export const glass3: SoundzaAsset = {
   download: "https://soundza.com/soundkit/glass-3.wav",
   page: "https://soundza.com/sound/glass-3-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 121,
-  syncMs: 41,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

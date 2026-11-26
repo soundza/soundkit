@@ -19,7 +19,7 @@ export const hit4: SoundzaAsset = {
   download: "https://soundza.com/soundkit/hit-4.wav",
   page: "https://soundza.com/sound/hit-4-2?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 497,
-  syncMs: 62,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

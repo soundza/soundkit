@@ -19,7 +19,7 @@ export const airyShimmerRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/airy-shimmer-riser.wav",
   page: "https://soundza.com/sound/airy-shimmer-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3060,
-  syncMs: 381,
+  syncMs: 248,
   loop: false,
   ai: false,
 };

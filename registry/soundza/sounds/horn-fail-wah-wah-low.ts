@@ -19,7 +19,7 @@ export const hornFailWahWahLow: SoundzaAsset = {
   download: "https://soundza.com/soundkit/horn-fail-wah-wah-low.wav",
   page: "https://soundza.com/sound/horn-fail-wah-wah-low?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4278,
-  syncMs: 1277,
+  syncMs: 1144,
   loop: false,
   ai: false,
 };

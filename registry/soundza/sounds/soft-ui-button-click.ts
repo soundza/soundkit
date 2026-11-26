@@ -19,7 +19,7 @@ export const softUiButtonClick: SoundzaAsset = {
   download: "https://soundza.com/soundkit/soft-ui-button-click.wav",
   page: "https://soundza.com/sound/soft-ui-button-click-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 697,
-  syncMs: 203,
+  syncMs: 70,
   loop: false,
   ai: false,
 };

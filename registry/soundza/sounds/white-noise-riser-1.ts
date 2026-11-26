@@ -19,7 +19,7 @@ export const whiteNoiseRiser1: SoundzaAsset = {
   download: "https://soundza.com/soundkit/white-noise-riser-1.wav",
   page: "https://soundza.com/sound/white-noise-riser-1?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 6897,
-  syncMs: 5053,
+  syncMs: 4920,
   loop: false,
   ai: false,
 };

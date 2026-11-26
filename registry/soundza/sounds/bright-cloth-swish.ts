@@ -19,7 +19,7 @@ export const brightClothSwish: SoundzaAsset = {
   download: "https://soundza.com/soundkit/bright-cloth-swish.wav",
   page: "https://soundza.com/sound/bright-cloth-swish?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 1200,
-  syncMs: 378,
+  syncMs: 245,
   loop: false,
   ai: false,
 };

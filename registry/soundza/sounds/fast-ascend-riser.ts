@@ -19,7 +19,7 @@ export const fastAscendRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/fast-ascend-riser.wav",
   page: "https://soundza.com/sound/fast-ascend-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 453,
-  syncMs: 181,
+  syncMs: 48,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const orchestralTensionRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/orchestral-tension-riser.wav",
   page: "https://soundza.com/sound/orchestral-tension-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2752,
-  syncMs: 1953,
+  syncMs: 1820,
   loop: false,
   ai: false,
 };

@@ -19,7 +19,7 @@ export const reversingNoiseSweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/reversing-noise-sweep.wav",
   page: "https://soundza.com/sound/reversing-noise-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 2000,
-  syncMs: 416,
+  syncMs: 283,
   loop: false,
   ai: false,
 };

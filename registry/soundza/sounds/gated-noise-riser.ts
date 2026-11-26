@@ -19,7 +19,7 @@ export const gatedNoiseRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/gated-noise-riser.wav",
   page: "https://soundza.com/sound/gated-noise-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 5799,
-  syncMs: 3724,
+  syncMs: 3591,
   loop: false,
   ai: false,
 };

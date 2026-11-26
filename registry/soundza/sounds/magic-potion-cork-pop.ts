@@ -19,7 +19,7 @@ export const magicPotionCorkPop: SoundzaAsset = {
   download: "https://soundza.com/soundkit/magic-potion-cork-pop.wav",
   page: "https://soundza.com/sound/magic-potion-cork-pop?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 642,
-  syncMs: 22,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

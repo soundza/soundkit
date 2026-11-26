@@ -19,7 +19,7 @@ export const popLipCork: SoundzaAsset = {
   download: "https://soundza.com/soundkit/pop-lip-cork.wav",
   page: "https://soundza.com/sound/pop-lip-cork?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 650,
-  syncMs: 17,
+  syncMs: 0,
   loop: false,
   ai: false,
 };

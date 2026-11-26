@@ -19,7 +19,7 @@ export const airySweep: SoundzaAsset = {
   download: "https://soundza.com/soundkit/airy-sweep.wav",
   page: "https://soundza.com/sound/airy-sweep?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 3156,
-  syncMs: 431,
+  syncMs: 298,
   loop: false,
   ai: false,
 };

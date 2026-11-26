@@ -19,7 +19,7 @@ export const cinematicCrashRiser: SoundzaAsset = {
   download: "https://soundza.com/soundkit/cinematic-crash-riser.wav",
   page: "https://soundza.com/sound/cinematic-crash-riser?utm_source=soundza-free-set&utm_medium=code",
   durationMs: 4291,
-  syncMs: 3959,
+  syncMs: 3826,
   loop: false,
   ai: false,
 };
